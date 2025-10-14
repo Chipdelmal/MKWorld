@@ -103,19 +103,27 @@ charList = sorted(list(set(dfCmb['Racer'].values)))
 kartList = sorted(list(set(dfCmb['Kart'].values)))
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app.title = "MKWCombo"
 app.layout = html.Div([
+    dbc.Row([html.H1('Mario Kart World: Combo Comparison')]),
     dbc.Row([
+        # dbc.Col([], width=1),
         dbc.Col([
             dcc.Dropdown(charList, 'Yoshi', id='charA'),
             dcc.Dropdown(kartList, 'Standard Kart', id='kartA'),
         ], width=2),
+        # dbc.Col([], width=1),
         dbc.Col([
             dcc.Dropdown(charList, 'Toadette', id='charB'),
             dcc.Dropdown(kartList, 'Cute Scoot', id='kartB'),
         ], width=2),
     ]),
     html.Div(
-        dcc.Graph(figure=fig, id='radar'), 
+        dbc.Row([
+            # dbc.Col([], width=1),
+            dbc.Col(dcc.Graph(figure=fig, id='radar')), 
+            
+        ]), 
         id='plot'
     )
 ])
@@ -138,13 +146,19 @@ def update_figure(charA, kartA, charB, kartB):
     fig = go.Figure()
     fig.add_trace(go.Scatterpolar(
         r=pA, theta=cats,
-        # fill='toself',
-        name=cA
+        name=cA,
+        line=dict(
+            color='#4E56C0',
+            width=5
+        )
     ))
     fig.add_trace(go.Scatterpolar(
         r=pB, theta=cats,
-        # fill='toself',
-        name=cB
+        name=cB,
+        line=dict(
+            color='#E45A92',
+            width=5
+        )
     ))
     fig.update_layout(
         polar=dict(
@@ -152,6 +166,7 @@ def update_figure(charA, kartA, charB, kartB):
                 visible=False,
                 range=[0, 25]
         )),
+        font=dict(size=25),
         width=1000,
         height=1000,
         showlegend=True
