@@ -1,4 +1,4 @@
-NUM_CLUSTER = 150
+NUM_CLUSTER = 200
 MDISTANCE = 'cosine'
 (PT_DTA, PT_CLS, PT_PLT) = (
     './data', 

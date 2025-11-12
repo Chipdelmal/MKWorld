@@ -26,15 +26,22 @@ dfCmb = pd.DataFrame({
     for (c, k) in COMBOS
 }).T
 ###############################################################################
-# Read Data
+# Cluster
 ###############################################################################
 cFun = AgglomerativeClustering(n_clusters=NCST)
 cluster_labels = cFun.fit_predict(dfCmb)
 clList= list(zip(dfCmb.index, cluster_labels))
 values = set(map(lambda x:x[1], clList))
+###############################################################################
+# Assemble and Export
+###############################################################################
+dfCls = pd.DataFrame(clList, columns=['index', 'Cluster'])
+dfCls = dfCls.set_index('index')
+dfCmb = dfCmb.join(dfCls)
 clustersList = [[y[0] for y in clList if y[1]==x] for x in values]
 pkl.dump(clustersList, open(path.join(PT_CLS, 'lst_clusters.pkl'), 'wb'))
 pkl.dump(clList, open(path.join(PT_CLS, 'lst_clustersID.pkl'), 'wb'))
+dfCmb.to_csv(path.join(PT_DTA, 'CombosClustered.csv'))
 ###############################################################################
 # Calculate distance matrix
 #   cosine_distances, euclidean_distances, manhattan_distances
