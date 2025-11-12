@@ -1,0 +1,2001 @@
+,SpSolid,SpCoarse,SpLiquid,Accel,MiniT,WeightCoin,HdSolid,HdCoarse,HdLiquid,Cluster
+Baby Peach - Mach Rocket,6,1,1,0,-3,0,16,12,12,10
+Baby Peach - R.O.B. H.O.G.,6,1,1,0,-3,0,16,12,12,10
+Baby Peach - Rally Bike,0,5,0,15,12,0,12,16,12,12
+Baby Peach - Hyper Pipe,0,5,0,15,12,0,12,16,12,12
+Baby Peach - Fin Twin,0,0,5,15,12,0,12,12,16,20
+Baby Peach - Dolphin Dasher,0,0,5,15,12,0,12,12,16,20
+Baby Peach - Baby Blooper,7,2,2,1,-2,1,15,11,11,10
+Baby Peach - Biddybuggy,1,6,1,14,11,1,11,15,11,12
+Baby Peach - Roadster Royale,8,4,4,11,8,3,14,9,9,75
+Baby Peach - B—Dasher,8,4,4,11,8,3,14,9,9,75
+Baby Peach - Hot Rod,8,4,4,11,8,3,14,9,9,75
+Baby Peach - Bumble V,8,4,4,11,8,3,14,9,9,75
+Baby Peach - Zoom Buggy,4,8,4,11,8,3,9,14,9,13
+Baby Peach - Rally Kart,4,8,4,11,8,3,9,14,9,13
+Baby Peach - Cloud 9,4,4,8,11,8,3,9,9,14,80
+Baby Peach - Ribbit Revster,4,4,8,11,8,3,9,9,14,80
+Baby Peach - Carpet Flyer,4,4,8,11,8,3,9,9,14,80
+Baby Peach - Billdozer,-9,-6,-6,9,6,5,13,7,7,97
+Baby Peach - Big Horn,-9,-6,-6,9,6,5,13,7,7,97
+Baby Peach - Bowser Bruiser,7,10,7,8,5,5,7,13,7,14
+Baby Peach - Li'l Dumpy,7,10,7,8,5,5,7,13,7,14
+Baby Peach - Tiny Titan,7,10,7,8,5,5,7,13,7,14
+Baby Peach - Chargin Truck,7,10,7,8,5,5,7,13,7,14
+Baby Peach - Mecha Trike,7,7,10,8,5,5,7,7,13,35
+Baby Peach - Rallygator,-9,-6,-6,10,7,6,11,6,6,97
+Baby Peach - Lobster Roller,7,7,10,9,6,6,6,6,11,35
+Baby Peach - Standard Bike,1,1,1,16,13,0,13,13,13,79
+Baby Peach - Cute Scoot,1,1,1,16,13,0,13,13,13,79
+Baby Peach - Tune Thumper,1,1,1,16,13,0,13,13,13,79
+Baby Peach - Pipe Frame,2,2,2,15,12,1,12,12,12,54
+Baby Peach - Loco Moto,4,4,4,13,10,1,12,12,12,58
+Baby Peach - Blastronaut III,5,5,5,13,10,3,9,9,9,30
+Baby Peach - Standard Kart,5,5,5,12,9,2,11,11,11,58
+Baby Peach - Plushbuggy,5,5,5,12,9,2,11,11,11,58
+Baby Peach - W—Twin Chopper,7,7,7,10,7,2,11,11,11,48
+Baby Peach - Reel Racer,8,8,8,9,6,3,10,10,10,63
+Baby Peach - Junkyard Hog,8,8,8,10,7,4,8,8,8,1
+Baby Peach - Funky Dorrie,4,4,8,12,9,5,7,7,12,11
+Baby Peach - Dread Sled,3,9,5,10,7,3,9,15,10,13
+Baby Peach - Stellar Sled,6,8,11,7,4,5,7,8,14,35
+Baby Daisy - Mach Rocket,6,1,1,0,-3,0,16,12,12,10
+Baby Daisy - R.O.B. H.O.G.,6,1,1,0,-3,0,16,12,12,10
+Baby Daisy - Rally Bike,0,5,0,15,12,0,12,16,12,12
+Baby Daisy - Hyper Pipe,0,5,0,15,12,0,12,16,12,12
+Baby Daisy - Fin Twin,0,0,5,15,12,0,12,12,16,20
+Baby Daisy - Dolphin Dasher,0,0,5,15,12,0,12,12,16,20
+Baby Daisy - Baby Blooper,7,2,2,1,-2,1,15,11,11,10
+Baby Daisy - Biddybuggy,1,6,1,14,11,1,11,15,11,12
+Baby Daisy - Roadster Royale,8,4,4,11,8,3,14,9,9,75
+Baby Daisy - B—Dasher,8,4,4,11,8,3,14,9,9,75
+Baby Daisy - Hot Rod,8,4,4,11,8,3,14,9,9,75
+Baby Daisy - Bumble V,8,4,4,11,8,3,14,9,9,75
+Baby Daisy - Zoom Buggy,4,8,4,11,8,3,9,14,9,13
+Baby Daisy - Rally Kart,4,8,4,11,8,3,9,14,9,13
+Baby Daisy - Cloud 9,4,4,8,11,8,3,9,9,14,80
+Baby Daisy - Ribbit Revster,4,4,8,11,8,3,9,9,14,80
+Baby Daisy - Carpet Flyer,4,4,8,11,8,3,9,9,14,80
+Baby Daisy - Billdozer,-9,-6,-6,9,6,5,13,7,7,97
+Baby Daisy - Big Horn,-9,-6,-6,9,6,5,13,7,7,97
+Baby Daisy - Bowser Bruiser,7,10,7,8,5,5,7,13,7,14
+Baby Daisy - Li'l Dumpy,7,10,7,8,5,5,7,13,7,14
+Baby Daisy - Tiny Titan,7,10,7,8,5,5,7,13,7,14
+Baby Daisy - Chargin Truck,7,10,7,8,5,5,7,13,7,14
+Baby Daisy - Mecha Trike,7,7,10,8,5,5,7,7,13,35
+Baby Daisy - Rallygator,-9,-6,-6,10,7,6,11,6,6,97
+Baby Daisy - Lobster Roller,7,7,10,9,6,6,6,6,11,35
+Baby Daisy - Standard Bike,1,1,1,16,13,0,13,13,13,79
+Baby Daisy - Cute Scoot,1,1,1,16,13,0,13,13,13,79
+Baby Daisy - Tune Thumper,1,1,1,16,13,0,13,13,13,79
+Baby Daisy - Pipe Frame,2,2,2,15,12,1,12,12,12,54
+Baby Daisy - Loco Moto,4,4,4,13,10,1,12,12,12,58
+Baby Daisy - Blastronaut III,5,5,5,13,10,3,9,9,9,30
+Baby Daisy - Standard Kart,5,5,5,12,9,2,11,11,11,58
+Baby Daisy - Plushbuggy,5,5,5,12,9,2,11,11,11,58
+Baby Daisy - W—Twin Chopper,7,7,7,10,7,2,11,11,11,48
+Baby Daisy - Reel Racer,8,8,8,9,6,3,10,10,10,63
+Baby Daisy - Junkyard Hog,8,8,8,10,7,4,8,8,8,1
+Baby Daisy - Funky Dorrie,4,4,8,12,9,5,7,7,12,11
+Baby Daisy - Dread Sled,3,9,5,10,7,3,9,15,10,13
+Baby Daisy - Stellar Sled,6,8,11,7,4,5,7,8,14,35
+Swooper - Mach Rocket,6,1,1,0,-3,0,16,12,12,10
+Swooper - R.O.B. H.O.G.,6,1,1,0,-3,0,16,12,12,10
+Swooper - Rally Bike,0,5,0,15,12,0,12,16,12,12
+Swooper - Hyper Pipe,0,5,0,15,12,0,12,16,12,12
+Swooper - Fin Twin,0,0,5,15,12,0,12,12,16,20
+Swooper - Dolphin Dasher,0,0,5,15,12,0,12,12,16,20
+Swooper - Baby Blooper,7,2,2,1,-2,1,15,11,11,10
+Swooper - Biddybuggy,1,6,1,14,11,1,11,15,11,12
+Swooper - Roadster Royale,8,4,4,11,8,3,14,9,9,75
+Swooper - B—Dasher,8,4,4,11,8,3,14,9,9,75
+Swooper - Hot Rod,8,4,4,11,8,3,14,9,9,75
+Swooper - Bumble V,8,4,4,11,8,3,14,9,9,75
+Swooper - Zoom Buggy,4,8,4,11,8,3,9,14,9,13
+Swooper - Rally Kart,4,8,4,11,8,3,9,14,9,13
+Swooper - Cloud 9,4,4,8,11,8,3,9,9,14,80
+Swooper - Ribbit Revster,4,4,8,11,8,3,9,9,14,80
+Swooper - Carpet Flyer,4,4,8,11,8,3,9,9,14,80
+Swooper - Billdozer,-9,-6,-6,9,6,5,13,7,7,97
+Swooper - Big Horn,-9,-6,-6,9,6,5,13,7,7,97
+Swooper - Bowser Bruiser,7,10,7,8,5,5,7,13,7,14
+Swooper - Li'l Dumpy,7,10,7,8,5,5,7,13,7,14
+Swooper - Tiny Titan,7,10,7,8,5,5,7,13,7,14
+Swooper - Chargin Truck,7,10,7,8,5,5,7,13,7,14
+Swooper - Mecha Trike,7,7,10,8,5,5,7,7,13,35
+Swooper - Rallygator,-9,-6,-6,10,7,6,11,6,6,97
+Swooper - Lobster Roller,7,7,10,9,6,6,6,6,11,35
+Swooper - Standard Bike,1,1,1,16,13,0,13,13,13,79
+Swooper - Cute Scoot,1,1,1,16,13,0,13,13,13,79
+Swooper - Tune Thumper,1,1,1,16,13,0,13,13,13,79
+Swooper - Pipe Frame,2,2,2,15,12,1,12,12,12,54
+Swooper - Loco Moto,4,4,4,13,10,1,12,12,12,58
+Swooper - Blastronaut III,5,5,5,13,10,3,9,9,9,30
+Swooper - Standard Kart,5,5,5,12,9,2,11,11,11,58
+Swooper - Plushbuggy,5,5,5,12,9,2,11,11,11,58
+Swooper - W—Twin Chopper,7,7,7,10,7,2,11,11,11,48
+Swooper - Reel Racer,8,8,8,9,6,3,10,10,10,63
+Swooper - Junkyard Hog,8,8,8,10,7,4,8,8,8,1
+Swooper - Funky Dorrie,4,4,8,12,9,5,7,7,12,11
+Swooper - Dread Sled,3,9,5,10,7,3,9,15,10,13
+Swooper - Stellar Sled,6,8,11,7,4,5,7,8,14,35
+Para Biddybud - Mach Rocket,6,1,1,0,-3,0,16,12,12,10
+Para Biddybud - R.O.B. H.O.G.,6,1,1,0,-3,0,16,12,12,10
+Para Biddybud - Rally Bike,0,5,0,15,12,0,12,16,12,12
+Para Biddybud - Hyper Pipe,0,5,0,15,12,0,12,16,12,12
+Para Biddybud - Fin Twin,0,0,5,15,12,0,12,12,16,20
+Para Biddybud - Dolphin Dasher,0,0,5,15,12,0,12,12,16,20
+Para Biddybud - Baby Blooper,7,2,2,1,-2,1,15,11,11,10
+Para Biddybud - Biddybuggy,1,6,1,14,11,1,11,15,11,12
+Para Biddybud - Roadster Royale,8,4,4,11,8,3,14,9,9,75
+Para Biddybud - B—Dasher,8,4,4,11,8,3,14,9,9,75
+Para Biddybud - Hot Rod,8,4,4,11,8,3,14,9,9,75
+Para Biddybud - Bumble V,8,4,4,11,8,3,14,9,9,75
+Para Biddybud - Zoom Buggy,4,8,4,11,8,3,9,14,9,13
+Para Biddybud - Rally Kart,4,8,4,11,8,3,9,14,9,13
+Para Biddybud - Cloud 9,4,4,8,11,8,3,9,9,14,80
+Para Biddybud - Ribbit Revster,4,4,8,11,8,3,9,9,14,80
+Para Biddybud - Carpet Flyer,4,4,8,11,8,3,9,9,14,80
+Para Biddybud - Billdozer,-9,-6,-6,9,6,5,13,7,7,97
+Para Biddybud - Big Horn,-9,-6,-6,9,6,5,13,7,7,97
+Para Biddybud - Bowser Bruiser,7,10,7,8,5,5,7,13,7,14
+Para Biddybud - Li'l Dumpy,7,10,7,8,5,5,7,13,7,14
+Para Biddybud - Tiny Titan,7,10,7,8,5,5,7,13,7,14
+Para Biddybud - Chargin Truck,7,10,7,8,5,5,7,13,7,14
+Para Biddybud - Mecha Trike,7,7,10,8,5,5,7,7,13,35
+Para Biddybud - Rallygator,-9,-6,-6,10,7,6,11,6,6,97
+Para Biddybud - Lobster Roller,7,7,10,9,6,6,6,6,11,35
+Para Biddybud - Standard Bike,1,1,1,16,13,0,13,13,13,79
+Para Biddybud - Cute Scoot,1,1,1,16,13,0,13,13,13,79
+Para Biddybud - Tune Thumper,1,1,1,16,13,0,13,13,13,79
+Para Biddybud - Pipe Frame,2,2,2,15,12,1,12,12,12,54
+Para Biddybud - Loco Moto,4,4,4,13,10,1,12,12,12,58
+Para Biddybud - Blastronaut III,5,5,5,13,10,3,9,9,9,30
+Para Biddybud - Standard Kart,5,5,5,12,9,2,11,11,11,58
+Para Biddybud - Plushbuggy,5,5,5,12,9,2,11,11,11,58
+Para Biddybud - W—Twin Chopper,7,7,7,10,7,2,11,11,11,48
+Para Biddybud - Reel Racer,8,8,8,9,6,3,10,10,10,63
+Para Biddybud - Junkyard Hog,8,8,8,10,7,4,8,8,8,1
+Para Biddybud - Funky Dorrie,4,4,8,12,9,5,7,7,12,11
+Para Biddybud - Dread Sled,3,9,5,10,7,3,9,15,10,13
+Para Biddybud - Stellar Sled,6,8,11,7,4,5,7,8,14,35
+Baby Mario - Mach Rocket,7,1,1,-1,-4,1,17,11,11,10
+Baby Mario - R.O.B. H.O.G.,7,1,1,-1,-4,1,17,11,11,10
+Baby Mario - Rally Bike,1,5,0,14,11,1,13,15,11,12
+Baby Mario - Hyper Pipe,1,5,0,14,11,1,13,15,11,12
+Baby Mario - Fin Twin,1,0,5,14,11,1,13,11,15,20
+Baby Mario - Dolphin Dasher,1,0,5,14,11,1,13,11,15,20
+Baby Mario - Baby Blooper,8,2,2,0,-3,2,16,10,10,10
+Baby Mario - Biddybuggy,2,6,1,13,10,2,12,14,10,12
+Baby Mario - Roadster Royale,9,4,4,10,7,4,15,8,8,59
+Baby Mario - B—Dasher,9,4,4,10,7,4,15,8,8,59
+Baby Mario - Hot Rod,9,4,4,10,7,4,15,8,8,59
+Baby Mario - Bumble V,9,4,4,10,7,4,15,8,8,59
+Baby Mario - Zoom Buggy,5,8,4,10,7,4,10,13,8,13
+Baby Mario - Rally Kart,5,8,4,10,7,4,10,13,8,13
+Baby Mario - Cloud 9,5,4,8,10,7,4,10,8,13,80
+Baby Mario - Ribbit Revster,5,4,8,10,7,4,10,8,13,80
+Baby Mario - Carpet Flyer,5,4,8,10,7,4,10,8,13,80
+Baby Mario - Billdozer,-8,-6,-6,8,5,6,14,6,6,45
+Baby Mario - Big Horn,-8,-6,-6,8,5,6,14,6,6,45
+Baby Mario - Bowser Bruiser,8,10,7,7,4,6,8,12,6,14
+Baby Mario - Li'l Dumpy,8,10,7,7,4,6,8,12,6,14
+Baby Mario - Tiny Titan,8,10,7,7,4,6,8,12,6,14
+Baby Mario - Chargin Truck,8,10,7,7,4,6,8,12,6,14
+Baby Mario - Mecha Trike,8,7,10,7,4,6,8,6,12,98
+Baby Mario - Rallygator,-8,-6,-6,9,6,7,12,5,5,45
+Baby Mario - Lobster Roller,8,7,10,8,5,7,7,5,10,25
+Baby Mario - Standard Bike,2,1,1,15,12,1,14,12,12,54
+Baby Mario - Cute Scoot,2,1,1,15,12,1,14,12,12,54
+Baby Mario - Tune Thumper,2,1,1,15,12,1,14,12,12,54
+Baby Mario - Pipe Frame,3,2,2,14,11,2,13,11,11,54
+Baby Mario - Loco Moto,5,4,4,12,9,2,13,11,11,58
+Baby Mario - Blastronaut III,6,5,5,12,9,4,10,8,8,17
+Baby Mario - Standard Kart,6,5,5,11,8,3,12,10,10,48
+Baby Mario - Plushbuggy,6,5,5,11,8,3,12,10,10,48
+Baby Mario - W—Twin Chopper,8,7,7,9,6,3,12,10,10,63
+Baby Mario - Reel Racer,9,8,8,8,5,4,11,9,9,63
+Baby Mario - Junkyard Hog,9,8,8,9,6,5,9,7,7,1
+Baby Mario - Funky Dorrie,5,4,8,11,8,6,8,6,11,73
+Baby Mario - Dread Sled,4,9,5,9,6,4,10,14,9,13
+Baby Mario - Stellar Sled,7,8,11,6,3,6,8,7,13,98
+Goomba - Mach Rocket,7,1,1,-1,-4,1,17,11,11,10
+Goomba - R.O.B. H.O.G.,7,1,1,-1,-4,1,17,11,11,10
+Goomba - Rally Bike,1,5,0,14,11,1,13,15,11,12
+Goomba - Hyper Pipe,1,5,0,14,11,1,13,15,11,12
+Goomba - Fin Twin,1,0,5,14,11,1,13,11,15,20
+Goomba - Dolphin Dasher,1,0,5,14,11,1,13,11,15,20
+Goomba - Baby Blooper,8,2,2,0,-3,2,16,10,10,10
+Goomba - Biddybuggy,2,6,1,13,10,2,12,14,10,12
+Goomba - Roadster Royale,9,4,4,10,7,4,15,8,8,59
+Goomba - B—Dasher,9,4,4,10,7,4,15,8,8,59
+Goomba - Hot Rod,9,4,4,10,7,4,15,8,8,59
+Goomba - Bumble V,9,4,4,10,7,4,15,8,8,59
+Goomba - Zoom Buggy,5,8,4,10,7,4,10,13,8,13
+Goomba - Rally Kart,5,8,4,10,7,4,10,13,8,13
+Goomba - Cloud 9,5,4,8,10,7,4,10,8,13,80
+Goomba - Ribbit Revster,5,4,8,10,7,4,10,8,13,80
+Goomba - Carpet Flyer,5,4,8,10,7,4,10,8,13,80
+Goomba - Billdozer,-8,-6,-6,8,5,6,14,6,6,45
+Goomba - Big Horn,-8,-6,-6,8,5,6,14,6,6,45
+Goomba - Bowser Bruiser,8,10,7,7,4,6,8,12,6,14
+Goomba - Li'l Dumpy,8,10,7,7,4,6,8,12,6,14
+Goomba - Tiny Titan,8,10,7,7,4,6,8,12,6,14
+Goomba - Chargin Truck,8,10,7,7,4,6,8,12,6,14
+Goomba - Mecha Trike,8,7,10,7,4,6,8,6,12,98
+Goomba - Rallygator,-8,-6,-6,9,6,7,12,5,5,45
+Goomba - Lobster Roller,8,7,10,8,5,7,7,5,10,25
+Goomba - Standard Bike,2,1,1,15,12,1,14,12,12,54
+Goomba - Cute Scoot,2,1,1,15,12,1,14,12,12,54
+Goomba - Tune Thumper,2,1,1,15,12,1,14,12,12,54
+Goomba - Pipe Frame,3,2,2,14,11,2,13,11,11,54
+Goomba - Loco Moto,5,4,4,12,9,2,13,11,11,58
+Goomba - Blastronaut III,6,5,5,12,9,4,10,8,8,17
+Goomba - Standard Kart,6,5,5,11,8,3,12,10,10,48
+Goomba - Plushbuggy,6,5,5,11,8,3,12,10,10,48
+Goomba - W—Twin Chopper,8,7,7,9,6,3,12,10,10,63
+Goomba - Reel Racer,9,8,8,8,5,4,11,9,9,63
+Goomba - Junkyard Hog,9,8,8,9,6,5,9,7,7,1
+Goomba - Funky Dorrie,5,4,8,11,8,6,8,6,11,73
+Goomba - Dread Sled,4,9,5,9,6,4,10,14,9,13
+Goomba - Stellar Sled,7,8,11,6,3,6,8,7,13,98
+Spike - Mach Rocket,7,1,1,-1,-4,1,17,11,11,10
+Spike - R.O.B. H.O.G.,7,1,1,-1,-4,1,17,11,11,10
+Spike - Rally Bike,1,5,0,14,11,1,13,15,11,12
+Spike - Hyper Pipe,1,5,0,14,11,1,13,15,11,12
+Spike - Fin Twin,1,0,5,14,11,1,13,11,15,20
+Spike - Dolphin Dasher,1,0,5,14,11,1,13,11,15,20
+Spike - Baby Blooper,8,2,2,0,-3,2,16,10,10,10
+Spike - Biddybuggy,2,6,1,13,10,2,12,14,10,12
+Spike - Roadster Royale,9,4,4,10,7,4,15,8,8,59
+Spike - B—Dasher,9,4,4,10,7,4,15,8,8,59
+Spike - Hot Rod,9,4,4,10,7,4,15,8,8,59
+Spike - Bumble V,9,4,4,10,7,4,15,8,8,59
+Spike - Zoom Buggy,5,8,4,10,7,4,10,13,8,13
+Spike - Rally Kart,5,8,4,10,7,4,10,13,8,13
+Spike - Cloud 9,5,4,8,10,7,4,10,8,13,80
+Spike - Ribbit Revster,5,4,8,10,7,4,10,8,13,80
+Spike - Carpet Flyer,5,4,8,10,7,4,10,8,13,80
+Spike - Billdozer,-8,-6,-6,8,5,6,14,6,6,45
+Spike - Big Horn,-8,-6,-6,8,5,6,14,6,6,45
+Spike - Bowser Bruiser,8,10,7,7,4,6,8,12,6,14
+Spike - Li'l Dumpy,8,10,7,7,4,6,8,12,6,14
+Spike - Tiny Titan,8,10,7,7,4,6,8,12,6,14
+Spike - Chargin Truck,8,10,7,7,4,6,8,12,6,14
+Spike - Mecha Trike,8,7,10,7,4,6,8,6,12,98
+Spike - Rallygator,-8,-6,-6,9,6,7,12,5,5,45
+Spike - Lobster Roller,8,7,10,8,5,7,7,5,10,25
+Spike - Standard Bike,2,1,1,15,12,1,14,12,12,54
+Spike - Cute Scoot,2,1,1,15,12,1,14,12,12,54
+Spike - Tune Thumper,2,1,1,15,12,1,14,12,12,54
+Spike - Pipe Frame,3,2,2,14,11,2,13,11,11,54
+Spike - Loco Moto,5,4,4,12,9,2,13,11,11,58
+Spike - Blastronaut III,6,5,5,12,9,4,10,8,8,17
+Spike - Standard Kart,6,5,5,11,8,3,12,10,10,48
+Spike - Plushbuggy,6,5,5,11,8,3,12,10,10,48
+Spike - W—Twin Chopper,8,7,7,9,6,3,12,10,10,63
+Spike - Reel Racer,9,8,8,8,5,4,11,9,9,63
+Spike - Junkyard Hog,9,8,8,9,6,5,9,7,7,1
+Spike - Funky Dorrie,5,4,8,11,8,6,8,6,11,73
+Spike - Dread Sled,4,9,5,9,6,4,10,14,9,13
+Spike - Stellar Sled,7,8,11,6,3,6,8,7,13,98
+Baby Luigi - Mach Rocket,7,1,7,-4,-6,6,15,13,11,55
+Baby Luigi - R.O.B. H.O.G.,7,1,7,-4,-6,6,15,13,11,55
+Baby Luigi - Rally Bike,1,5,6,11,9,6,11,17,11,72
+Baby Luigi - Hyper Pipe,1,5,6,11,9,6,11,17,11,72
+Baby Luigi - Fin Twin,1,0,11,11,9,6,11,13,15,51
+Baby Luigi - Dolphin Dasher,1,0,11,11,9,6,11,13,15,51
+Baby Luigi - Baby Blooper,8,2,8,-3,-5,7,14,12,10,55
+Baby Luigi - Biddybuggy,2,6,7,10,8,7,10,16,10,72
+Baby Luigi - Roadster Royale,9,4,10,7,5,9,13,10,8,18
+Baby Luigi - B—Dasher,9,4,10,7,5,9,13,10,8,18
+Baby Luigi - Hot Rod,9,4,10,7,5,9,13,10,8,18
+Baby Luigi - Bumble V,9,4,10,7,5,9,13,10,8,18
+Baby Luigi - Zoom Buggy,5,8,10,7,5,9,8,15,8,34
+Baby Luigi - Rally Kart,5,8,10,7,5,9,8,15,8,34
+Baby Luigi - Cloud 9,5,4,14,7,5,9,8,10,13,16
+Baby Luigi - Ribbit Revster,5,4,14,7,5,9,8,10,13,16
+Baby Luigi - Carpet Flyer,5,4,14,7,5,9,8,10,13,16
+Baby Luigi - Billdozer,-8,-6,0,5,3,11,12,8,6,53
+Baby Luigi - Big Horn,-8,-6,0,5,3,11,12,8,6,53
+Baby Luigi - Bowser Bruiser,8,10,13,4,2,11,6,14,6,28
+Baby Luigi - Li'l Dumpy,8,10,13,4,2,11,6,14,6,28
+Baby Luigi - Tiny Titan,8,10,13,4,2,11,6,14,6,28
+Baby Luigi - Chargin Truck,8,10,13,4,2,11,6,14,6,28
+Baby Luigi - Mecha Trike,8,7,16,4,2,11,6,8,12,19
+Baby Luigi - Rallygator,-8,-6,0,6,4,12,10,7,5,53
+Baby Luigi - Lobster Roller,8,7,16,5,3,12,5,7,10,19
+Baby Luigi - Standard Bike,2,1,7,12,10,6,12,14,12,42
+Baby Luigi - Cute Scoot,2,1,7,12,10,6,12,14,12,42
+Baby Luigi - Tune Thumper,2,1,7,12,10,6,12,14,12,42
+Baby Luigi - Pipe Frame,3,2,8,11,9,7,11,13,11,42
+Baby Luigi - Loco Moto,5,4,10,9,7,7,11,13,11,43
+Baby Luigi - Blastronaut III,6,5,11,9,7,9,8,10,8,86
+Baby Luigi - Standard Kart,6,5,11,8,6,8,10,12,10,43
+Baby Luigi - Plushbuggy,6,5,11,8,6,8,10,12,10,43
+Baby Luigi - W—Twin Chopper,8,7,13,6,4,8,10,12,10,65
+Baby Luigi - Reel Racer,9,8,14,5,3,9,9,11,9,65
+Baby Luigi - Junkyard Hog,9,8,14,6,4,10,7,9,7,82
+Baby Luigi - Funky Dorrie,5,4,14,8,6,11,6,8,11,94
+Baby Luigi - Dread Sled,4,9,11,6,4,9,8,16,9,34
+Baby Luigi - Stellar Sled,7,8,17,3,1,11,6,9,13,19
+Dry Bones - Mach Rocket,7,1,7,-4,-6,6,15,13,11,55
+Dry Bones - R.O.B. H.O.G.,7,1,7,-4,-6,6,15,13,11,55
+Dry Bones - Rally Bike,1,5,6,11,9,6,11,17,11,72
+Dry Bones - Hyper Pipe,1,5,6,11,9,6,11,17,11,72
+Dry Bones - Fin Twin,1,0,11,11,9,6,11,13,15,51
+Dry Bones - Dolphin Dasher,1,0,11,11,9,6,11,13,15,51
+Dry Bones - Baby Blooper,8,2,8,-3,-5,7,14,12,10,55
+Dry Bones - Biddybuggy,2,6,7,10,8,7,10,16,10,72
+Dry Bones - Roadster Royale,9,4,10,7,5,9,13,10,8,18
+Dry Bones - B—Dasher,9,4,10,7,5,9,13,10,8,18
+Dry Bones - Hot Rod,9,4,10,7,5,9,13,10,8,18
+Dry Bones - Bumble V,9,4,10,7,5,9,13,10,8,18
+Dry Bones - Zoom Buggy,5,8,10,7,5,9,8,15,8,34
+Dry Bones - Rally Kart,5,8,10,7,5,9,8,15,8,34
+Dry Bones - Cloud 9,5,4,14,7,5,9,8,10,13,16
+Dry Bones - Ribbit Revster,5,4,14,7,5,9,8,10,13,16
+Dry Bones - Carpet Flyer,5,4,14,7,5,9,8,10,13,16
+Dry Bones - Billdozer,-8,-6,0,5,3,11,12,8,6,53
+Dry Bones - Big Horn,-8,-6,0,5,3,11,12,8,6,53
+Dry Bones - Bowser Bruiser,8,10,13,4,2,11,6,14,6,28
+Dry Bones - Li'l Dumpy,8,10,13,4,2,11,6,14,6,28
+Dry Bones - Tiny Titan,8,10,13,4,2,11,6,14,6,28
+Dry Bones - Chargin Truck,8,10,13,4,2,11,6,14,6,28
+Dry Bones - Mecha Trike,8,7,16,4,2,11,6,8,12,19
+Dry Bones - Rallygator,-8,-6,0,6,4,12,10,7,5,53
+Dry Bones - Lobster Roller,8,7,16,5,3,12,5,7,10,19
+Dry Bones - Standard Bike,2,1,7,12,10,6,12,14,12,42
+Dry Bones - Cute Scoot,2,1,7,12,10,6,12,14,12,42
+Dry Bones - Tune Thumper,2,1,7,12,10,6,12,14,12,42
+Dry Bones - Pipe Frame,3,2,8,11,9,7,11,13,11,42
+Dry Bones - Loco Moto,5,4,10,9,7,7,11,13,11,43
+Dry Bones - Blastronaut III,6,5,11,9,7,9,8,10,8,86
+Dry Bones - Standard Kart,6,5,11,8,6,8,10,12,10,43
+Dry Bones - Plushbuggy,6,5,11,8,6,8,10,12,10,43
+Dry Bones - W—Twin Chopper,8,7,13,6,4,8,10,12,10,65
+Dry Bones - Reel Racer,9,8,14,5,3,9,9,11,9,65
+Dry Bones - Junkyard Hog,9,8,14,6,4,10,7,9,7,82
+Dry Bones - Funky Dorrie,5,4,14,8,6,11,6,8,11,94
+Dry Bones - Dread Sled,4,9,11,6,4,9,8,16,9,34
+Dry Bones - Stellar Sled,7,8,17,3,1,11,6,9,13,19
+Peepa - Mach Rocket,7,1,7,-4,-6,6,15,13,11,55
+Peepa - R.O.B. H.O.G.,7,1,7,-4,-6,6,15,13,11,55
+Peepa - Rally Bike,1,5,6,11,9,6,11,17,11,72
+Peepa - Hyper Pipe,1,5,6,11,9,6,11,17,11,72
+Peepa - Fin Twin,1,0,11,11,9,6,11,13,15,51
+Peepa - Dolphin Dasher,1,0,11,11,9,6,11,13,15,51
+Peepa - Baby Blooper,8,2,8,-3,-5,7,14,12,10,55
+Peepa - Biddybuggy,2,6,7,10,8,7,10,16,10,72
+Peepa - Roadster Royale,9,4,10,7,5,9,13,10,8,18
+Peepa - B—Dasher,9,4,10,7,5,9,13,10,8,18
+Peepa - Hot Rod,9,4,10,7,5,9,13,10,8,18
+Peepa - Bumble V,9,4,10,7,5,9,13,10,8,18
+Peepa - Zoom Buggy,5,8,10,7,5,9,8,15,8,34
+Peepa - Rally Kart,5,8,10,7,5,9,8,15,8,34
+Peepa - Cloud 9,5,4,14,7,5,9,8,10,13,16
+Peepa - Ribbit Revster,5,4,14,7,5,9,8,10,13,16
+Peepa - Carpet Flyer,5,4,14,7,5,9,8,10,13,16
+Peepa - Billdozer,-8,-6,0,5,3,11,12,8,6,53
+Peepa - Big Horn,-8,-6,0,5,3,11,12,8,6,53
+Peepa - Bowser Bruiser,8,10,13,4,2,11,6,14,6,28
+Peepa - Li'l Dumpy,8,10,13,4,2,11,6,14,6,28
+Peepa - Tiny Titan,8,10,13,4,2,11,6,14,6,28
+Peepa - Chargin Truck,8,10,13,4,2,11,6,14,6,28
+Peepa - Mecha Trike,8,7,16,4,2,11,6,8,12,19
+Peepa - Rallygator,-8,-6,0,6,4,12,10,7,5,53
+Peepa - Lobster Roller,8,7,16,5,3,12,5,7,10,19
+Peepa - Standard Bike,2,1,7,12,10,6,12,14,12,42
+Peepa - Cute Scoot,2,1,7,12,10,6,12,14,12,42
+Peepa - Tune Thumper,2,1,7,12,10,6,12,14,12,42
+Peepa - Pipe Frame,3,2,8,11,9,7,11,13,11,42
+Peepa - Loco Moto,5,4,10,9,7,7,11,13,11,43
+Peepa - Blastronaut III,6,5,11,9,7,9,8,10,8,86
+Peepa - Standard Kart,6,5,11,8,6,8,10,12,10,43
+Peepa - Plushbuggy,6,5,11,8,6,8,10,12,10,43
+Peepa - W—Twin Chopper,8,7,13,6,4,8,10,12,10,65
+Peepa - Reel Racer,9,8,14,5,3,9,9,11,9,65
+Peepa - Junkyard Hog,9,8,14,6,4,10,7,9,7,82
+Peepa - Funky Dorrie,5,4,14,8,6,11,6,8,11,94
+Peepa - Dread Sled,4,9,11,6,4,9,8,16,9,34
+Peepa - Stellar Sled,7,8,17,3,1,11,6,9,13,19
+Baby Rosalina - Mach Rocket,6,2,7,-4,-6,6,15,11,13,55
+Baby Rosalina - R.O.B. H.O.G.,6,2,7,-4,-6,6,15,11,13,55
+Baby Rosalina - Rally Bike,0,6,6,11,9,6,11,15,13,72
+Baby Rosalina - Hyper Pipe,0,6,6,11,9,6,11,15,13,72
+Baby Rosalina - Fin Twin,0,1,11,11,9,6,11,11,17,51
+Baby Rosalina - Dolphin Dasher,0,1,11,11,9,6,11,11,17,51
+Baby Rosalina - Baby Blooper,7,3,8,-3,-5,7,14,10,12,55
+Baby Rosalina - Biddybuggy,1,7,7,10,8,7,10,14,12,72
+Baby Rosalina - Roadster Royale,8,5,10,7,5,9,13,8,10,18
+Baby Rosalina - B—Dasher,8,5,10,7,5,9,13,8,10,18
+Baby Rosalina - Hot Rod,8,5,10,7,5,9,13,8,10,18
+Baby Rosalina - Bumble V,8,5,10,7,5,9,13,8,10,18
+Baby Rosalina - Zoom Buggy,4,9,10,7,5,9,8,13,10,34
+Baby Rosalina - Rally Kart,4,9,10,7,5,9,8,13,10,34
+Baby Rosalina - Cloud 9,4,5,14,7,5,9,8,8,15,16
+Baby Rosalina - Ribbit Revster,4,5,14,7,5,9,8,8,15,16
+Baby Rosalina - Carpet Flyer,4,5,14,7,5,9,8,8,15,16
+Baby Rosalina - Billdozer,-9,-5,0,5,3,11,12,6,8,53
+Baby Rosalina - Big Horn,-9,-5,0,5,3,11,12,6,8,53
+Baby Rosalina - Bowser Bruiser,7,11,13,4,2,11,6,12,8,28
+Baby Rosalina - Li'l Dumpy,7,11,13,4,2,11,6,12,8,28
+Baby Rosalina - Tiny Titan,7,11,13,4,2,11,6,12,8,28
+Baby Rosalina - Chargin Truck,7,11,13,4,2,11,6,12,8,28
+Baby Rosalina - Mecha Trike,7,8,16,4,2,11,6,6,14,19
+Baby Rosalina - Rallygator,-9,-5,0,6,4,12,10,5,7,53
+Baby Rosalina - Lobster Roller,7,8,16,5,3,12,5,5,12,19
+Baby Rosalina - Standard Bike,1,2,7,12,10,6,12,12,14,42
+Baby Rosalina - Cute Scoot,1,2,7,12,10,6,12,12,14,42
+Baby Rosalina - Tune Thumper,1,2,7,12,10,6,12,12,14,42
+Baby Rosalina - Pipe Frame,2,3,8,11,9,7,11,11,13,42
+Baby Rosalina - Loco Moto,4,5,10,9,7,7,11,11,13,43
+Baby Rosalina - Blastronaut III,5,6,11,9,7,9,8,8,10,86
+Baby Rosalina - Standard Kart,5,6,11,8,6,8,10,10,12,43
+Baby Rosalina - Plushbuggy,5,6,11,8,6,8,10,10,12,43
+Baby Rosalina - W—Twin Chopper,7,8,13,6,4,8,10,10,12,65
+Baby Rosalina - Reel Racer,8,9,14,5,3,9,9,9,11,65
+Baby Rosalina - Junkyard Hog,8,9,14,6,4,10,7,7,9,82
+Baby Rosalina - Funky Dorrie,4,5,14,8,6,11,6,6,13,94
+Baby Rosalina - Dread Sled,3,10,11,6,4,9,8,14,11,34
+Baby Rosalina - Stellar Sled,6,9,17,3,1,11,6,7,15,19
+Sidestepper - Mach Rocket,6,2,7,-4,-6,6,15,11,13,55
+Sidestepper - R.O.B. H.O.G.,6,2,7,-4,-6,6,15,11,13,55
+Sidestepper - Rally Bike,0,6,6,11,9,6,11,15,13,72
+Sidestepper - Hyper Pipe,0,6,6,11,9,6,11,15,13,72
+Sidestepper - Fin Twin,0,1,11,11,9,6,11,11,17,51
+Sidestepper - Dolphin Dasher,0,1,11,11,9,6,11,11,17,51
+Sidestepper - Baby Blooper,7,3,8,-3,-5,7,14,10,12,55
+Sidestepper - Biddybuggy,1,7,7,10,8,7,10,14,12,72
+Sidestepper - Roadster Royale,8,5,10,7,5,9,13,8,10,18
+Sidestepper - B—Dasher,8,5,10,7,5,9,13,8,10,18
+Sidestepper - Hot Rod,8,5,10,7,5,9,13,8,10,18
+Sidestepper - Bumble V,8,5,10,7,5,9,13,8,10,18
+Sidestepper - Zoom Buggy,4,9,10,7,5,9,8,13,10,34
+Sidestepper - Rally Kart,4,9,10,7,5,9,8,13,10,34
+Sidestepper - Cloud 9,4,5,14,7,5,9,8,8,15,16
+Sidestepper - Ribbit Revster,4,5,14,7,5,9,8,8,15,16
+Sidestepper - Carpet Flyer,4,5,14,7,5,9,8,8,15,16
+Sidestepper - Billdozer,-9,-5,0,5,3,11,12,6,8,53
+Sidestepper - Big Horn,-9,-5,0,5,3,11,12,6,8,53
+Sidestepper - Bowser Bruiser,7,11,13,4,2,11,6,12,8,28
+Sidestepper - Li'l Dumpy,7,11,13,4,2,11,6,12,8,28
+Sidestepper - Tiny Titan,7,11,13,4,2,11,6,12,8,28
+Sidestepper - Chargin Truck,7,11,13,4,2,11,6,12,8,28
+Sidestepper - Mecha Trike,7,8,16,4,2,11,6,6,14,19
+Sidestepper - Rallygator,-9,-5,0,6,4,12,10,5,7,53
+Sidestepper - Lobster Roller,7,8,16,5,3,12,5,5,12,19
+Sidestepper - Standard Bike,1,2,7,12,10,6,12,12,14,42
+Sidestepper - Cute Scoot,1,2,7,12,10,6,12,12,14,42
+Sidestepper - Tune Thumper,1,2,7,12,10,6,12,12,14,42
+Sidestepper - Pipe Frame,2,3,8,11,9,7,11,11,13,42
+Sidestepper - Loco Moto,4,5,10,9,7,7,11,11,13,43
+Sidestepper - Blastronaut III,5,6,11,9,7,9,8,8,10,86
+Sidestepper - Standard Kart,5,6,11,8,6,8,10,10,12,43
+Sidestepper - Plushbuggy,5,6,11,8,6,8,10,10,12,43
+Sidestepper - W—Twin Chopper,7,8,13,6,4,8,10,10,12,65
+Sidestepper - Reel Racer,8,9,14,5,3,9,9,9,11,65
+Sidestepper - Junkyard Hog,8,9,14,6,4,10,7,7,9,82
+Sidestepper - Funky Dorrie,4,5,14,8,6,11,6,6,13,94
+Sidestepper - Dread Sled,3,10,11,6,4,9,8,14,11,34
+Sidestepper - Stellar Sled,6,9,17,3,1,11,6,7,15,19
+Fishbone - Mach Rocket,6,2,7,-4,-6,6,15,11,13,55
+Fishbone - R.O.B. H.O.G.,6,2,7,-4,-6,6,15,11,13,55
+Fishbone - Rally Bike,0,6,6,11,9,6,11,15,13,72
+Fishbone - Hyper Pipe,0,6,6,11,9,6,11,15,13,72
+Fishbone - Fin Twin,0,1,11,11,9,6,11,11,17,51
+Fishbone - Dolphin Dasher,0,1,11,11,9,6,11,11,17,51
+Fishbone - Baby Blooper,7,3,8,-3,-5,7,14,10,12,55
+Fishbone - Biddybuggy,1,7,7,10,8,7,10,14,12,72
+Fishbone - Roadster Royale,8,5,10,7,5,9,13,8,10,18
+Fishbone - B—Dasher,8,5,10,7,5,9,13,8,10,18
+Fishbone - Hot Rod,8,5,10,7,5,9,13,8,10,18
+Fishbone - Bumble V,8,5,10,7,5,9,13,8,10,18
+Fishbone - Zoom Buggy,4,9,10,7,5,9,8,13,10,34
+Fishbone - Rally Kart,4,9,10,7,5,9,8,13,10,34
+Fishbone - Cloud 9,4,5,14,7,5,9,8,8,15,16
+Fishbone - Ribbit Revster,4,5,14,7,5,9,8,8,15,16
+Fishbone - Carpet Flyer,4,5,14,7,5,9,8,8,15,16
+Fishbone - Billdozer,-9,-5,0,5,3,11,12,6,8,53
+Fishbone - Big Horn,-9,-5,0,5,3,11,12,6,8,53
+Fishbone - Bowser Bruiser,7,11,13,4,2,11,6,12,8,28
+Fishbone - Li'l Dumpy,7,11,13,4,2,11,6,12,8,28
+Fishbone - Tiny Titan,7,11,13,4,2,11,6,12,8,28
+Fishbone - Chargin Truck,7,11,13,4,2,11,6,12,8,28
+Fishbone - Mecha Trike,7,8,16,4,2,11,6,6,14,19
+Fishbone - Rallygator,-9,-5,0,6,4,12,10,5,7,53
+Fishbone - Lobster Roller,7,8,16,5,3,12,5,5,12,19
+Fishbone - Standard Bike,1,2,7,12,10,6,12,12,14,42
+Fishbone - Cute Scoot,1,2,7,12,10,6,12,12,14,42
+Fishbone - Tune Thumper,1,2,7,12,10,6,12,12,14,42
+Fishbone - Pipe Frame,2,3,8,11,9,7,11,11,13,42
+Fishbone - Loco Moto,4,5,10,9,7,7,11,11,13,43
+Fishbone - Blastronaut III,5,6,11,9,7,9,8,8,10,86
+Fishbone - Standard Kart,5,6,11,8,6,8,10,10,12,43
+Fishbone - Plushbuggy,5,6,11,8,6,8,10,10,12,43
+Fishbone - W—Twin Chopper,7,8,13,6,4,8,10,10,12,65
+Fishbone - Reel Racer,8,9,14,5,3,9,9,9,11,65
+Fishbone - Junkyard Hog,8,9,14,6,4,10,7,7,9,82
+Fishbone - Funky Dorrie,4,5,14,8,6,11,6,6,13,94
+Fishbone - Dread Sled,3,10,11,6,4,9,8,14,11,34
+Fishbone - Stellar Sled,6,9,17,3,1,11,6,7,15,19
+Toadette - Mach Rocket,8,2,2,-2,-4,2,16,10,10,10
+Toadette - R.O.B. H.O.G.,8,2,2,-2,-4,2,16,10,10,10
+Toadette - Rally Bike,2,6,1,13,11,2,12,14,10,12
+Toadette - Hyper Pipe,2,6,1,13,11,2,12,14,10,12
+Toadette - Fin Twin,2,1,6,13,11,2,12,10,14,20
+Toadette - Dolphin Dasher,2,1,6,13,11,2,12,10,14,20
+Toadette - Baby Blooper,9,3,3,-1,-3,3,15,9,9,91
+Toadette - Biddybuggy,3,7,2,12,10,3,11,13,9,23
+Toadette - Roadster Royale,10,5,5,9,7,5,14,7,7,59
+Toadette - B—Dasher,10,5,5,9,7,5,14,7,7,59
+Toadette - Hot Rod,10,5,5,9,7,5,14,7,7,59
+Toadette - Bumble V,10,5,5,9,7,5,14,7,7,59
+Toadette - Zoom Buggy,6,9,5,9,7,5,9,12,7,32
+Toadette - Rally Kart,6,9,5,9,7,5,9,12,7,32
+Toadette - Cloud 9,6,5,9,9,7,5,9,7,12,73
+Toadette - Ribbit Revster,6,5,9,9,7,5,9,7,12,73
+Toadette - Carpet Flyer,6,5,9,9,7,5,9,7,12,73
+Toadette - Billdozer,-7,-5,-5,7,5,7,13,5,5,45
+Toadette - Big Horn,-7,-5,-5,7,5,7,13,5,5,45
+Toadette - Bowser Bruiser,9,11,8,6,4,7,7,11,5,99
+Toadette - Li'l Dumpy,9,11,8,6,4,7,7,11,5,99
+Toadette - Tiny Titan,9,11,8,6,4,7,7,11,5,99
+Toadette - Chargin Truck,9,11,8,6,4,7,7,11,5,99
+Toadette - Mecha Trike,9,8,11,6,4,7,7,5,11,98
+Toadette - Rallygator,-7,-5,-5,8,6,8,11,4,4,45
+Toadette - Lobster Roller,9,8,11,7,5,8,6,4,9,83
+Toadette - Standard Bike,3,2,2,14,12,2,13,11,11,54
+Toadette - Cute Scoot,3,2,2,14,12,2,13,11,11,54
+Toadette - Tune Thumper,3,2,2,14,12,2,13,11,11,54
+Toadette - Pipe Frame,4,3,3,13,11,3,12,10,10,89
+Toadette - Loco Moto,6,5,5,11,9,3,12,10,10,48
+Toadette - Blastronaut III,7,6,6,11,9,5,9,7,7,17
+Toadette - Standard Kart,7,6,6,10,8,4,11,9,9,48
+Toadette - Plushbuggy,7,6,6,10,8,4,11,9,9,48
+Toadette - W—Twin Chopper,9,8,8,8,6,4,11,9,9,63
+Toadette - Reel Racer,10,9,9,7,5,5,10,8,8,56
+Toadette - Junkyard Hog,10,9,9,8,6,6,8,6,6,61
+Toadette - Funky Dorrie,6,5,9,10,8,7,7,5,10,73
+Toadette - Dread Sled,5,10,6,8,6,5,9,13,8,32
+Toadette - Stellar Sled,8,9,12,5,3,7,7,6,12,98
+Nabbit - Mach Rocket,8,2,2,-2,-4,2,16,10,10,10
+Nabbit - R.O.B. H.O.G.,8,2,2,-2,-4,2,16,10,10,10
+Nabbit - Rally Bike,2,6,1,13,11,2,12,14,10,12
+Nabbit - Hyper Pipe,2,6,1,13,11,2,12,14,10,12
+Nabbit - Fin Twin,2,1,6,13,11,2,12,10,14,20
+Nabbit - Dolphin Dasher,2,1,6,13,11,2,12,10,14,20
+Nabbit - Baby Blooper,9,3,3,-1,-3,3,15,9,9,91
+Nabbit - Biddybuggy,3,7,2,12,10,3,11,13,9,23
+Nabbit - Roadster Royale,10,5,5,9,7,5,14,7,7,59
+Nabbit - B—Dasher,10,5,5,9,7,5,14,7,7,59
+Nabbit - Hot Rod,10,5,5,9,7,5,14,7,7,59
+Nabbit - Bumble V,10,5,5,9,7,5,14,7,7,59
+Nabbit - Zoom Buggy,6,9,5,9,7,5,9,12,7,32
+Nabbit - Rally Kart,6,9,5,9,7,5,9,12,7,32
+Nabbit - Cloud 9,6,5,9,9,7,5,9,7,12,73
+Nabbit - Ribbit Revster,6,5,9,9,7,5,9,7,12,73
+Nabbit - Carpet Flyer,6,5,9,9,7,5,9,7,12,73
+Nabbit - Billdozer,-7,-5,-5,7,5,7,13,5,5,45
+Nabbit - Big Horn,-7,-5,-5,7,5,7,13,5,5,45
+Nabbit - Bowser Bruiser,9,11,8,6,4,7,7,11,5,99
+Nabbit - Li'l Dumpy,9,11,8,6,4,7,7,11,5,99
+Nabbit - Tiny Titan,9,11,8,6,4,7,7,11,5,99
+Nabbit - Chargin Truck,9,11,8,6,4,7,7,11,5,99
+Nabbit - Mecha Trike,9,8,11,6,4,7,7,5,11,98
+Nabbit - Rallygator,-7,-5,-5,8,6,8,11,4,4,45
+Nabbit - Lobster Roller,9,8,11,7,5,8,6,4,9,83
+Nabbit - Standard Bike,3,2,2,14,12,2,13,11,11,54
+Nabbit - Cute Scoot,3,2,2,14,12,2,13,11,11,54
+Nabbit - Tune Thumper,3,2,2,14,12,2,13,11,11,54
+Nabbit - Pipe Frame,4,3,3,13,11,3,12,10,10,89
+Nabbit - Loco Moto,6,5,5,11,9,3,12,10,10,48
+Nabbit - Blastronaut III,7,6,6,11,9,5,9,7,7,17
+Nabbit - Standard Kart,7,6,6,10,8,4,11,9,9,48
+Nabbit - Plushbuggy,7,6,6,10,8,4,11,9,9,48
+Nabbit - W—Twin Chopper,9,8,8,8,6,4,11,9,9,63
+Nabbit - Reel Racer,10,9,9,7,5,5,10,8,8,56
+Nabbit - Junkyard Hog,10,9,9,8,6,6,8,6,6,61
+Nabbit - Funky Dorrie,6,5,9,10,8,7,7,5,10,73
+Nabbit - Dread Sled,5,10,6,8,6,5,9,13,8,32
+Nabbit - Stellar Sled,8,9,12,5,3,7,7,6,12,98
+Toad - Mach Rocket,7,3,2,-2,-4,2,14,12,10,2
+Toad - R.O.B. H.O.G.,7,3,2,-2,-4,2,14,12,10,2
+Toad - Rally Bike,1,7,1,13,11,2,10,16,10,23
+Toad - Hyper Pipe,1,7,1,13,11,2,10,16,10,23
+Toad - Fin Twin,1,2,6,13,11,2,10,12,14,62
+Toad - Dolphin Dasher,1,2,6,13,11,2,10,12,14,62
+Toad - Baby Blooper,8,4,3,-1,-3,3,13,11,9,2
+Toad - Biddybuggy,2,8,2,12,10,3,9,15,9,23
+Toad - Roadster Royale,9,6,5,9,7,5,12,9,7,27
+Toad - B—Dasher,9,6,5,9,7,5,12,9,7,27
+Toad - Hot Rod,9,6,5,9,7,5,12,9,7,27
+Toad - Bumble V,9,6,5,9,7,5,12,9,7,27
+Toad - Zoom Buggy,5,10,5,9,7,5,7,14,7,44
+Toad - Rally Kart,5,10,5,9,7,5,7,14,7,44
+Toad - Cloud 9,5,6,9,9,7,5,7,9,12,3
+Toad - Ribbit Revster,5,6,9,9,7,5,7,9,12,3
+Toad - Carpet Flyer,5,6,9,9,7,5,7,9,12,3
+Toad - Billdozer,-8,-4,-5,7,5,7,11,7,5,5
+Toad - Big Horn,-8,-4,-5,7,5,7,11,7,5,5
+Toad - Bowser Bruiser,8,12,8,6,4,7,5,13,5,74
+Toad - Li'l Dumpy,8,12,8,6,4,7,5,13,5,74
+Toad - Tiny Titan,8,12,8,6,4,7,5,13,5,74
+Toad - Chargin Truck,8,12,8,6,4,7,5,13,5,74
+Toad - Mecha Trike,8,9,11,6,4,7,5,7,11,15
+Toad - Rallygator,-8,-4,-5,8,6,8,9,6,4,5
+Toad - Lobster Roller,8,9,11,7,5,8,4,6,9,81
+Toad - Standard Bike,2,3,2,14,12,2,11,13,11,60
+Toad - Cute Scoot,2,3,2,14,12,2,11,13,11,60
+Toad - Tune Thumper,2,3,2,14,12,2,11,13,11,60
+Toad - Pipe Frame,3,4,3,13,11,3,10,12,10,60
+Toad - Loco Moto,5,6,5,11,9,3,10,12,10,58
+Toad - Blastronaut III,6,7,6,11,9,5,7,9,7,6
+Toad - Standard Kart,6,7,6,10,8,4,9,11,9,6
+Toad - Plushbuggy,6,7,6,10,8,4,9,11,9,6
+Toad - W—Twin Chopper,8,9,8,8,6,4,9,11,9,63
+Toad - Reel Racer,9,10,9,7,5,5,8,10,8,56
+Toad - Junkyard Hog,9,10,9,8,6,6,6,8,6,66
+Toad - Funky Dorrie,5,6,9,10,8,7,5,7,10,29
+Toad - Dread Sled,4,11,6,8,6,5,7,15,8,44
+Toad - Stellar Sled,7,10,12,5,3,7,5,8,12,15
+Shy Guy - Mach Rocket,7,3,2,-2,-4,2,14,12,10,2
+Shy Guy - R.O.B. H.O.G.,7,3,2,-2,-4,2,14,12,10,2
+Shy Guy - Rally Bike,1,7,1,13,11,2,10,16,10,23
+Shy Guy - Hyper Pipe,1,7,1,13,11,2,10,16,10,23
+Shy Guy - Fin Twin,1,2,6,13,11,2,10,12,14,62
+Shy Guy - Dolphin Dasher,1,2,6,13,11,2,10,12,14,62
+Shy Guy - Baby Blooper,8,4,3,-1,-3,3,13,11,9,2
+Shy Guy - Biddybuggy,2,8,2,12,10,3,9,15,9,23
+Shy Guy - Roadster Royale,9,6,5,9,7,5,12,9,7,27
+Shy Guy - B—Dasher,9,6,5,9,7,5,12,9,7,27
+Shy Guy - Hot Rod,9,6,5,9,7,5,12,9,7,27
+Shy Guy - Bumble V,9,6,5,9,7,5,12,9,7,27
+Shy Guy - Zoom Buggy,5,10,5,9,7,5,7,14,7,44
+Shy Guy - Rally Kart,5,10,5,9,7,5,7,14,7,44
+Shy Guy - Cloud 9,5,6,9,9,7,5,7,9,12,3
+Shy Guy - Ribbit Revster,5,6,9,9,7,5,7,9,12,3
+Shy Guy - Carpet Flyer,5,6,9,9,7,5,7,9,12,3
+Shy Guy - Billdozer,-8,-4,-5,7,5,7,11,7,5,5
+Shy Guy - Big Horn,-8,-4,-5,7,5,7,11,7,5,5
+Shy Guy - Bowser Bruiser,8,12,8,6,4,7,5,13,5,74
+Shy Guy - Li'l Dumpy,8,12,8,6,4,7,5,13,5,74
+Shy Guy - Tiny Titan,8,12,8,6,4,7,5,13,5,74
+Shy Guy - Chargin Truck,8,12,8,6,4,7,5,13,5,74
+Shy Guy - Mecha Trike,8,9,11,6,4,7,5,7,11,15
+Shy Guy - Rallygator,-8,-4,-5,8,6,8,9,6,4,5
+Shy Guy - Lobster Roller,8,9,11,7,5,8,4,6,9,81
+Shy Guy - Standard Bike,2,3,2,14,12,2,11,13,11,60
+Shy Guy - Cute Scoot,2,3,2,14,12,2,11,13,11,60
+Shy Guy - Tune Thumper,2,3,2,14,12,2,11,13,11,60
+Shy Guy - Pipe Frame,3,4,3,13,11,3,10,12,10,60
+Shy Guy - Loco Moto,5,6,5,11,9,3,10,12,10,58
+Shy Guy - Blastronaut III,6,7,6,11,9,5,7,9,7,6
+Shy Guy - Standard Kart,6,7,6,10,8,4,9,11,9,6
+Shy Guy - Plushbuggy,6,7,6,10,8,4,9,11,9,6
+Shy Guy - W—Twin Chopper,8,9,8,8,6,4,9,11,9,63
+Shy Guy - Reel Racer,9,10,9,7,5,5,8,10,8,56
+Shy Guy - Junkyard Hog,9,10,9,8,6,6,6,8,6,66
+Shy Guy - Funky Dorrie,5,6,9,10,8,7,5,7,10,29
+Shy Guy - Dread Sled,4,11,6,8,6,5,7,15,8,44
+Shy Guy - Stellar Sled,7,10,12,5,3,7,5,8,12,15
+Stingby - Mach Rocket,7,3,2,-2,-4,2,14,12,10,2
+Stingby - R.O.B. H.O.G.,7,3,2,-2,-4,2,14,12,10,2
+Stingby - Rally Bike,1,7,1,13,11,2,10,16,10,23
+Stingby - Hyper Pipe,1,7,1,13,11,2,10,16,10,23
+Stingby - Fin Twin,1,2,6,13,11,2,10,12,14,62
+Stingby - Dolphin Dasher,1,2,6,13,11,2,10,12,14,62
+Stingby - Baby Blooper,8,4,3,-1,-3,3,13,11,9,2
+Stingby - Biddybuggy,2,8,2,12,10,3,9,15,9,23
+Stingby - Roadster Royale,9,6,5,9,7,5,12,9,7,27
+Stingby - B—Dasher,9,6,5,9,7,5,12,9,7,27
+Stingby - Hot Rod,9,6,5,9,7,5,12,9,7,27
+Stingby - Bumble V,9,6,5,9,7,5,12,9,7,27
+Stingby - Zoom Buggy,5,10,5,9,7,5,7,14,7,44
+Stingby - Rally Kart,5,10,5,9,7,5,7,14,7,44
+Stingby - Cloud 9,5,6,9,9,7,5,7,9,12,3
+Stingby - Ribbit Revster,5,6,9,9,7,5,7,9,12,3
+Stingby - Carpet Flyer,5,6,9,9,7,5,7,9,12,3
+Stingby - Billdozer,-8,-4,-5,7,5,7,11,7,5,5
+Stingby - Big Horn,-8,-4,-5,7,5,7,11,7,5,5
+Stingby - Bowser Bruiser,8,12,8,6,4,7,5,13,5,74
+Stingby - Li'l Dumpy,8,12,8,6,4,7,5,13,5,74
+Stingby - Tiny Titan,8,12,8,6,4,7,5,13,5,74
+Stingby - Chargin Truck,8,12,8,6,4,7,5,13,5,74
+Stingby - Mecha Trike,8,9,11,6,4,7,5,7,11,15
+Stingby - Rallygator,-8,-4,-5,8,6,8,9,6,4,5
+Stingby - Lobster Roller,8,9,11,7,5,8,4,6,9,81
+Stingby - Standard Bike,2,3,2,14,12,2,11,13,11,60
+Stingby - Cute Scoot,2,3,2,14,12,2,11,13,11,60
+Stingby - Tune Thumper,2,3,2,14,12,2,11,13,11,60
+Stingby - Pipe Frame,3,4,3,13,11,3,10,12,10,60
+Stingby - Loco Moto,5,6,5,11,9,3,10,12,10,58
+Stingby - Blastronaut III,6,7,6,11,9,5,7,9,7,6
+Stingby - Standard Kart,6,7,6,10,8,4,9,11,9,6
+Stingby - Plushbuggy,6,7,6,10,8,4,9,11,9,6
+Stingby - W—Twin Chopper,8,9,8,8,6,4,9,11,9,63
+Stingby - Reel Racer,9,10,9,7,5,5,8,10,8,56
+Stingby - Junkyard Hog,9,10,9,8,6,6,6,8,6,66
+Stingby - Funky Dorrie,5,6,9,10,8,7,5,7,10,29
+Stingby - Dread Sled,4,11,6,8,6,5,7,15,8,44
+Stingby - Stellar Sled,7,10,12,5,3,7,5,8,12,15
+Koopa Troopa - Mach Rocket,7,2,3,-2,-4,2,14,10,12,2
+Koopa Troopa - R.O.B. H.O.G.,7,2,3,-2,-4,2,14,10,12,2
+Koopa Troopa - Rally Bike,1,6,2,13,11,2,10,14,12,23
+Koopa Troopa - Hyper Pipe,1,6,2,13,11,2,10,14,12,23
+Koopa Troopa - Fin Twin,1,1,7,13,11,2,10,10,16,62
+Koopa Troopa - Dolphin Dasher,1,1,7,13,11,2,10,10,16,62
+Koopa Troopa - Baby Blooper,8,3,4,-1,-3,3,13,9,11,2
+Koopa Troopa - Biddybuggy,2,7,3,12,10,3,9,13,11,23
+Koopa Troopa - Roadster Royale,9,5,6,9,7,5,12,7,9,27
+Koopa Troopa - B—Dasher,9,5,6,9,7,5,12,7,9,27
+Koopa Troopa - Hot Rod,9,5,6,9,7,5,12,7,9,27
+Koopa Troopa - Bumble V,9,5,6,9,7,5,12,7,9,27
+Koopa Troopa - Zoom Buggy,5,9,6,9,7,5,7,12,9,68
+Koopa Troopa - Rally Kart,5,9,6,9,7,5,7,12,9,68
+Koopa Troopa - Cloud 9,5,5,10,9,7,5,7,7,14,3
+Koopa Troopa - Ribbit Revster,5,5,10,9,7,5,7,7,14,3
+Koopa Troopa - Carpet Flyer,5,5,10,9,7,5,7,7,14,3
+Koopa Troopa - Billdozer,-8,-5,-4,7,5,7,11,5,7,5
+Koopa Troopa - Big Horn,-8,-5,-4,7,5,7,11,5,7,5
+Koopa Troopa - Bowser Bruiser,8,11,9,6,4,7,5,11,7,47
+Koopa Troopa - Li'l Dumpy,8,11,9,6,4,7,5,11,7,47
+Koopa Troopa - Tiny Titan,8,11,9,6,4,7,5,11,7,47
+Koopa Troopa - Chargin Truck,8,11,9,6,4,7,5,11,7,47
+Koopa Troopa - Mecha Trike,8,8,12,6,4,7,5,5,13,78
+Koopa Troopa - Rallygator,-8,-5,-4,8,6,8,9,4,6,5
+Koopa Troopa - Lobster Roller,8,8,12,7,5,8,4,4,11,78
+Koopa Troopa - Standard Bike,2,2,3,14,12,2,11,11,13,41
+Koopa Troopa - Cute Scoot,2,2,3,14,12,2,11,11,13,41
+Koopa Troopa - Tune Thumper,2,2,3,14,12,2,11,11,13,41
+Koopa Troopa - Pipe Frame,3,3,4,13,11,3,10,10,12,41
+Koopa Troopa - Loco Moto,5,5,6,11,9,3,10,10,12,58
+Koopa Troopa - Blastronaut III,6,6,7,11,9,5,7,7,9,71
+Koopa Troopa - Standard Kart,6,6,7,10,8,4,9,9,11,48
+Koopa Troopa - Plushbuggy,6,6,7,10,8,4,9,9,11,48
+Koopa Troopa - W—Twin Chopper,8,8,9,8,6,4,9,9,11,63
+Koopa Troopa - Reel Racer,9,9,10,7,5,5,8,8,10,56
+Koopa Troopa - Junkyard Hog,9,9,10,8,6,6,6,6,8,92
+Koopa Troopa - Funky Dorrie,5,5,10,10,8,7,5,5,12,29
+Koopa Troopa - Dread Sled,4,10,7,8,6,5,7,13,10,68
+Koopa Troopa - Stellar Sled,7,9,13,5,3,7,5,6,14,15
+Lakitu - Mach Rocket,7,2,3,-2,-4,2,14,10,12,2
+Lakitu - R.O.B. H.O.G.,7,2,3,-2,-4,2,14,10,12,2
+Lakitu - Rally Bike,1,6,2,13,11,2,10,14,12,23
+Lakitu - Hyper Pipe,1,6,2,13,11,2,10,14,12,23
+Lakitu - Fin Twin,1,1,7,13,11,2,10,10,16,62
+Lakitu - Dolphin Dasher,1,1,7,13,11,2,10,10,16,62
+Lakitu - Baby Blooper,8,3,4,-1,-3,3,13,9,11,2
+Lakitu - Biddybuggy,2,7,3,12,10,3,9,13,11,23
+Lakitu - Roadster Royale,9,5,6,9,7,5,12,7,9,27
+Lakitu - B—Dasher,9,5,6,9,7,5,12,7,9,27
+Lakitu - Hot Rod,9,5,6,9,7,5,12,7,9,27
+Lakitu - Bumble V,9,5,6,9,7,5,12,7,9,27
+Lakitu - Zoom Buggy,5,9,6,9,7,5,7,12,9,68
+Lakitu - Rally Kart,5,9,6,9,7,5,7,12,9,68
+Lakitu - Cloud 9,5,5,10,9,7,5,7,7,14,3
+Lakitu - Ribbit Revster,5,5,10,9,7,5,7,7,14,3
+Lakitu - Carpet Flyer,5,5,10,9,7,5,7,7,14,3
+Lakitu - Billdozer,-8,-5,-4,7,5,7,11,5,7,5
+Lakitu - Big Horn,-8,-5,-4,7,5,7,11,5,7,5
+Lakitu - Bowser Bruiser,8,11,9,6,4,7,5,11,7,47
+Lakitu - Li'l Dumpy,8,11,9,6,4,7,5,11,7,47
+Lakitu - Tiny Titan,8,11,9,6,4,7,5,11,7,47
+Lakitu - Chargin Truck,8,11,9,6,4,7,5,11,7,47
+Lakitu - Mecha Trike,8,8,12,6,4,7,5,5,13,78
+Lakitu - Rallygator,-8,-5,-4,8,6,8,9,4,6,5
+Lakitu - Lobster Roller,8,8,12,7,5,8,4,4,11,78
+Lakitu - Standard Bike,2,2,3,14,12,2,11,11,13,41
+Lakitu - Cute Scoot,2,2,3,14,12,2,11,11,13,41
+Lakitu - Tune Thumper,2,2,3,14,12,2,11,11,13,41
+Lakitu - Pipe Frame,3,3,4,13,11,3,10,10,12,41
+Lakitu - Loco Moto,5,5,6,11,9,3,10,10,12,58
+Lakitu - Blastronaut III,6,6,7,11,9,5,7,7,9,71
+Lakitu - Standard Kart,6,6,7,10,8,4,9,9,11,48
+Lakitu - Plushbuggy,6,6,7,10,8,4,9,9,11,48
+Lakitu - W—Twin Chopper,8,8,9,8,6,4,9,9,11,63
+Lakitu - Reel Racer,9,9,10,7,5,5,8,8,10,56
+Lakitu - Junkyard Hog,9,9,10,8,6,6,6,6,8,92
+Lakitu - Funky Dorrie,5,5,10,10,8,7,5,5,12,29
+Lakitu - Dread Sled,4,10,7,8,6,5,7,13,10,68
+Lakitu - Stellar Sled,7,9,13,5,3,7,5,6,14,15
+Cheep Cheep - Mach Rocket,7,2,3,-2,-4,2,14,10,12,2
+Cheep Cheep - R.O.B. H.O.G.,7,2,3,-2,-4,2,14,10,12,2
+Cheep Cheep - Rally Bike,1,6,2,13,11,2,10,14,12,23
+Cheep Cheep - Hyper Pipe,1,6,2,13,11,2,10,14,12,23
+Cheep Cheep - Fin Twin,1,1,7,13,11,2,10,10,16,62
+Cheep Cheep - Dolphin Dasher,1,1,7,13,11,2,10,10,16,62
+Cheep Cheep - Baby Blooper,8,3,4,-1,-3,3,13,9,11,2
+Cheep Cheep - Biddybuggy,2,7,3,12,10,3,9,13,11,23
+Cheep Cheep - Roadster Royale,9,5,6,9,7,5,12,7,9,27
+Cheep Cheep - B—Dasher,9,5,6,9,7,5,12,7,9,27
+Cheep Cheep - Hot Rod,9,5,6,9,7,5,12,7,9,27
+Cheep Cheep - Bumble V,9,5,6,9,7,5,12,7,9,27
+Cheep Cheep - Zoom Buggy,5,9,6,9,7,5,7,12,9,68
+Cheep Cheep - Rally Kart,5,9,6,9,7,5,7,12,9,68
+Cheep Cheep - Cloud 9,5,5,10,9,7,5,7,7,14,3
+Cheep Cheep - Ribbit Revster,5,5,10,9,7,5,7,7,14,3
+Cheep Cheep - Carpet Flyer,5,5,10,9,7,5,7,7,14,3
+Cheep Cheep - Billdozer,-8,-5,-4,7,5,7,11,5,7,5
+Cheep Cheep - Big Horn,-8,-5,-4,7,5,7,11,5,7,5
+Cheep Cheep - Bowser Bruiser,8,11,9,6,4,7,5,11,7,47
+Cheep Cheep - Li'l Dumpy,8,11,9,6,4,7,5,11,7,47
+Cheep Cheep - Tiny Titan,8,11,9,6,4,7,5,11,7,47
+Cheep Cheep - Chargin Truck,8,11,9,6,4,7,5,11,7,47
+Cheep Cheep - Mecha Trike,8,8,12,6,4,7,5,5,13,78
+Cheep Cheep - Rallygator,-8,-5,-4,8,6,8,9,4,6,5
+Cheep Cheep - Lobster Roller,8,8,12,7,5,8,4,4,11,78
+Cheep Cheep - Standard Bike,2,2,3,14,12,2,11,11,13,41
+Cheep Cheep - Cute Scoot,2,2,3,14,12,2,11,11,13,41
+Cheep Cheep - Tune Thumper,2,2,3,14,12,2,11,11,13,41
+Cheep Cheep - Pipe Frame,3,3,4,13,11,3,10,10,12,41
+Cheep Cheep - Loco Moto,5,5,6,11,9,3,10,10,12,58
+Cheep Cheep - Blastronaut III,6,6,7,11,9,5,7,7,9,71
+Cheep Cheep - Standard Kart,6,6,7,10,8,4,9,9,11,48
+Cheep Cheep - Plushbuggy,6,6,7,10,8,4,9,9,11,48
+Cheep Cheep - W—Twin Chopper,8,8,9,8,6,4,9,9,11,63
+Cheep Cheep - Reel Racer,9,9,10,7,5,5,8,8,10,56
+Cheep Cheep - Junkyard Hog,9,9,10,8,6,6,6,6,8,92
+Cheep Cheep - Funky Dorrie,5,5,10,10,8,7,5,5,12,29
+Cheep Cheep - Dread Sled,4,10,7,8,6,5,7,13,10,68
+Cheep Cheep - Stellar Sled,7,9,13,5,3,7,5,6,14,15
+Peach - Mach Rocket,9,3,3,-3,-5,3,15,9,9,91
+Peach - R.O.B. H.O.G.,9,3,3,-3,-5,3,15,9,9,91
+Peach - Rally Bike,3,7,2,12,10,3,11,13,9,23
+Peach - Hyper Pipe,3,7,2,12,10,3,11,13,9,23
+Peach - Fin Twin,3,2,7,12,10,3,11,9,13,11
+Peach - Dolphin Dasher,3,2,7,12,10,3,11,9,13,11
+Peach - Baby Blooper,10,4,4,-2,-4,4,14,8,8,91
+Peach - Biddybuggy,4,8,3,11,9,4,10,12,8,13
+Peach - Roadster Royale,11,6,6,8,6,6,13,6,6,88
+Peach - B—Dasher,11,6,6,8,6,6,13,6,6,88
+Peach - Hot Rod,11,6,6,8,6,6,13,6,6,88
+Peach - Bumble V,11,6,6,8,6,6,13,6,6,88
+Peach - Zoom Buggy,7,10,6,8,6,6,8,11,6,14
+Peach - Rally Kart,7,10,6,8,6,6,8,11,6,14
+Peach - Cloud 9,7,6,10,8,6,6,8,6,11,25
+Peach - Ribbit Revster,7,6,10,8,6,6,8,6,11,25
+Peach - Carpet Flyer,7,6,10,8,6,6,8,6,11,25
+Peach - Billdozer,-6,-4,-4,6,4,8,12,4,4,93
+Peach - Big Horn,-6,-4,-4,6,4,8,12,4,4,93
+Peach - Bowser Bruiser,10,12,9,5,3,8,6,10,4,50
+Peach - Li'l Dumpy,10,12,9,5,3,8,6,10,4,50
+Peach - Tiny Titan,10,12,9,5,3,8,6,10,4,50
+Peach - Chargin Truck,10,12,9,5,3,8,6,10,4,50
+Peach - Mecha Trike,10,9,12,5,3,8,6,4,10,90
+Peach - Rallygator,-6,-4,-4,7,5,9,10,3,3,93
+Peach - Lobster Roller,10,9,12,6,4,9,5,3,8,83
+Peach - Standard Bike,4,3,3,13,11,3,12,10,10,89
+Peach - Cute Scoot,4,3,3,13,11,3,12,10,10,89
+Peach - Tune Thumper,4,3,3,13,11,3,12,10,10,89
+Peach - Pipe Frame,5,4,4,12,10,4,11,9,9,30
+Peach - Loco Moto,7,6,6,10,8,4,11,9,9,48
+Peach - Blastronaut III,8,7,7,10,8,6,8,6,6,76
+Peach - Standard Kart,8,7,7,9,7,5,10,8,8,1
+Peach - Plushbuggy,8,7,7,9,7,5,10,8,8,1
+Peach - W—Twin Chopper,10,9,9,7,5,5,10,8,8,56
+Peach - Reel Racer,11,10,10,6,4,6,9,7,7,56
+Peach - Junkyard Hog,11,10,10,7,5,7,7,5,5,61
+Peach - Funky Dorrie,7,6,10,9,7,8,6,4,9,52
+Peach - Dread Sled,6,11,7,7,5,6,8,12,7,14
+Peach - Stellar Sled,9,10,13,4,2,8,6,5,11,90
+Daisy - Mach Rocket,9,3,3,-3,-5,3,15,9,9,91
+Daisy - R.O.B. H.O.G.,9,3,3,-3,-5,3,15,9,9,91
+Daisy - Rally Bike,3,7,2,12,10,3,11,13,9,23
+Daisy - Hyper Pipe,3,7,2,12,10,3,11,13,9,23
+Daisy - Fin Twin,3,2,7,12,10,3,11,9,13,11
+Daisy - Dolphin Dasher,3,2,7,12,10,3,11,9,13,11
+Daisy - Baby Blooper,10,4,4,-2,-4,4,14,8,8,91
+Daisy - Biddybuggy,4,8,3,11,9,4,10,12,8,13
+Daisy - Roadster Royale,11,6,6,8,6,6,13,6,6,88
+Daisy - B—Dasher,11,6,6,8,6,6,13,6,6,88
+Daisy - Hot Rod,11,6,6,8,6,6,13,6,6,88
+Daisy - Bumble V,11,6,6,8,6,6,13,6,6,88
+Daisy - Zoom Buggy,7,10,6,8,6,6,8,11,6,14
+Daisy - Rally Kart,7,10,6,8,6,6,8,11,6,14
+Daisy - Cloud 9,7,6,10,8,6,6,8,6,11,25
+Daisy - Ribbit Revster,7,6,10,8,6,6,8,6,11,25
+Daisy - Carpet Flyer,7,6,10,8,6,6,8,6,11,25
+Daisy - Billdozer,-6,-4,-4,6,4,8,12,4,4,93
+Daisy - Big Horn,-6,-4,-4,6,4,8,12,4,4,93
+Daisy - Bowser Bruiser,10,12,9,5,3,8,6,10,4,50
+Daisy - Li'l Dumpy,10,12,9,5,3,8,6,10,4,50
+Daisy - Tiny Titan,10,12,9,5,3,8,6,10,4,50
+Daisy - Chargin Truck,10,12,9,5,3,8,6,10,4,50
+Daisy - Mecha Trike,10,9,12,5,3,8,6,4,10,90
+Daisy - Rallygator,-6,-4,-4,7,5,9,10,3,3,93
+Daisy - Lobster Roller,10,9,12,6,4,9,5,3,8,83
+Daisy - Standard Bike,4,3,3,13,11,3,12,10,10,89
+Daisy - Cute Scoot,4,3,3,13,11,3,12,10,10,89
+Daisy - Tune Thumper,4,3,3,13,11,3,12,10,10,89
+Daisy - Pipe Frame,5,4,4,12,10,4,11,9,9,30
+Daisy - Loco Moto,7,6,6,10,8,4,11,9,9,48
+Daisy - Blastronaut III,8,7,7,10,8,6,8,6,6,76
+Daisy - Standard Kart,8,7,7,9,7,5,10,8,8,1
+Daisy - Plushbuggy,8,7,7,9,7,5,10,8,8,1
+Daisy - W—Twin Chopper,10,9,9,7,5,5,10,8,8,56
+Daisy - Reel Racer,11,10,10,6,4,6,9,7,7,56
+Daisy - Junkyard Hog,11,10,10,7,5,7,7,5,5,61
+Daisy - Funky Dorrie,7,6,10,9,7,8,6,4,9,52
+Daisy - Dread Sled,6,11,7,7,5,6,8,12,7,14
+Daisy - Stellar Sled,9,10,13,4,2,8,6,5,11,90
+Coin Coffer - Mach Rocket,9,3,3,-3,-5,3,15,9,9,91
+Coin Coffer - R.O.B. H.O.G.,9,3,3,-3,-5,3,15,9,9,91
+Coin Coffer - Rally Bike,3,7,2,12,10,3,11,13,9,23
+Coin Coffer - Hyper Pipe,3,7,2,12,10,3,11,13,9,23
+Coin Coffer - Fin Twin,3,2,7,12,10,3,11,9,13,11
+Coin Coffer - Dolphin Dasher,3,2,7,12,10,3,11,9,13,11
+Coin Coffer - Baby Blooper,10,4,4,-2,-4,4,14,8,8,91
+Coin Coffer - Biddybuggy,4,8,3,11,9,4,10,12,8,13
+Coin Coffer - Roadster Royale,11,6,6,8,6,6,13,6,6,88
+Coin Coffer - B—Dasher,11,6,6,8,6,6,13,6,6,88
+Coin Coffer - Hot Rod,11,6,6,8,6,6,13,6,6,88
+Coin Coffer - Bumble V,11,6,6,8,6,6,13,6,6,88
+Coin Coffer - Zoom Buggy,7,10,6,8,6,6,8,11,6,14
+Coin Coffer - Rally Kart,7,10,6,8,6,6,8,11,6,14
+Coin Coffer - Cloud 9,7,6,10,8,6,6,8,6,11,25
+Coin Coffer - Ribbit Revster,7,6,10,8,6,6,8,6,11,25
+Coin Coffer - Carpet Flyer,7,6,10,8,6,6,8,6,11,25
+Coin Coffer - Billdozer,-6,-4,-4,6,4,8,12,4,4,93
+Coin Coffer - Big Horn,-6,-4,-4,6,4,8,12,4,4,93
+Coin Coffer - Bowser Bruiser,10,12,9,5,3,8,6,10,4,50
+Coin Coffer - Li'l Dumpy,10,12,9,5,3,8,6,10,4,50
+Coin Coffer - Tiny Titan,10,12,9,5,3,8,6,10,4,50
+Coin Coffer - Chargin Truck,10,12,9,5,3,8,6,10,4,50
+Coin Coffer - Mecha Trike,10,9,12,5,3,8,6,4,10,90
+Coin Coffer - Rallygator,-6,-4,-4,7,5,9,10,3,3,93
+Coin Coffer - Lobster Roller,10,9,12,6,4,9,5,3,8,83
+Coin Coffer - Standard Bike,4,3,3,13,11,3,12,10,10,89
+Coin Coffer - Cute Scoot,4,3,3,13,11,3,12,10,10,89
+Coin Coffer - Tune Thumper,4,3,3,13,11,3,12,10,10,89
+Coin Coffer - Pipe Frame,5,4,4,12,10,4,11,9,9,30
+Coin Coffer - Loco Moto,7,6,6,10,8,4,11,9,9,48
+Coin Coffer - Blastronaut III,8,7,7,10,8,6,8,6,6,76
+Coin Coffer - Standard Kart,8,7,7,9,7,5,10,8,8,1
+Coin Coffer - Plushbuggy,8,7,7,9,7,5,10,8,8,1
+Coin Coffer - W—Twin Chopper,10,9,9,7,5,5,10,8,8,56
+Coin Coffer - Reel Racer,11,10,10,6,4,6,9,7,7,56
+Coin Coffer - Junkyard Hog,11,10,10,7,5,7,7,5,5,61
+Coin Coffer - Funky Dorrie,7,6,10,9,7,8,6,4,9,52
+Coin Coffer - Dread Sled,6,11,7,7,5,6,8,12,7,14
+Coin Coffer - Stellar Sled,9,10,13,4,2,8,6,5,11,90
+Yoshi - Mach Rocket,8,4,3,-3,-5,3,13,11,9,2
+Yoshi - R.O.B. H.O.G.,8,4,3,-3,-5,3,13,11,9,2
+Yoshi - Rally Bike,2,8,2,12,10,3,9,15,9,23
+Yoshi - Hyper Pipe,2,8,2,12,10,3,9,15,9,23
+Yoshi - Fin Twin,2,3,7,12,10,3,9,11,13,62
+Yoshi - Dolphin Dasher,2,3,7,12,10,3,9,11,13,62
+Yoshi - Baby Blooper,9,5,4,-2,-4,4,12,10,8,2
+Yoshi - Biddybuggy,3,9,3,11,9,4,8,14,8,13
+Yoshi - Roadster Royale,10,7,6,8,6,6,11,8,6,37
+Yoshi - B—Dasher,10,7,6,8,6,6,11,8,6,37
+Yoshi - Hot Rod,10,7,6,8,6,6,11,8,6,37
+Yoshi - Bumble V,10,7,6,8,6,6,11,8,6,37
+Yoshi - Zoom Buggy,6,11,6,8,6,6,6,13,6,14
+Yoshi - Rally Kart,6,11,6,8,6,6,6,13,6,14
+Yoshi - Cloud 9,6,7,10,8,6,6,6,8,11,35
+Yoshi - Ribbit Revster,6,7,10,8,6,6,6,8,11,35
+Yoshi - Carpet Flyer,6,7,10,8,6,6,6,8,11,35
+Yoshi - Billdozer,-7,-3,-4,6,4,8,10,6,4,5
+Yoshi - Big Horn,-7,-3,-4,6,4,8,10,6,4,5
+Yoshi - Bowser Bruiser,9,13,9,5,3,8,4,12,4,4
+Yoshi - Li'l Dumpy,9,13,9,5,3,8,4,12,4,4
+Yoshi - Tiny Titan,9,13,9,5,3,8,4,12,4,4
+Yoshi - Chargin Truck,9,13,9,5,3,8,4,12,4,4
+Yoshi - Mecha Trike,9,10,12,5,3,8,4,6,10,15
+Yoshi - Rallygator,-7,-3,-4,7,5,9,8,5,3,5
+Yoshi - Lobster Roller,9,10,12,6,4,9,3,5,8,22
+Yoshi - Standard Bike,3,4,3,13,11,3,10,12,10,60
+Yoshi - Cute Scoot,3,4,3,13,11,3,10,12,10,60
+Yoshi - Tune Thumper,3,4,3,13,11,3,10,12,10,60
+Yoshi - Pipe Frame,4,5,4,12,10,4,9,11,9,30
+Yoshi - Loco Moto,6,7,6,10,8,4,9,11,9,6
+Yoshi - Blastronaut III,7,8,7,10,8,6,6,8,6,76
+Yoshi - Standard Kart,7,8,7,9,7,5,8,10,8,1
+Yoshi - Plushbuggy,7,8,7,9,7,5,8,10,8,1
+Yoshi - W—Twin Chopper,9,10,9,7,5,5,8,10,8,56
+Yoshi - Reel Racer,10,11,10,6,4,6,7,9,7,56
+Yoshi - Junkyard Hog,10,11,10,7,5,7,5,7,5,38
+Yoshi - Funky Dorrie,6,7,10,9,7,8,4,6,9,29
+Yoshi - Dread Sled,5,12,7,7,5,6,6,14,7,14
+Yoshi - Stellar Sled,8,11,13,4,2,8,4,7,11,15
+Monty Mole - Mach Rocket,8,4,3,-3,-5,3,13,11,9,2
+Monty Mole - R.O.B. H.O.G.,8,4,3,-3,-5,3,13,11,9,2
+Monty Mole - Rally Bike,2,8,2,12,10,3,9,15,9,23
+Monty Mole - Hyper Pipe,2,8,2,12,10,3,9,15,9,23
+Monty Mole - Fin Twin,2,3,7,12,10,3,9,11,13,62
+Monty Mole - Dolphin Dasher,2,3,7,12,10,3,9,11,13,62
+Monty Mole - Baby Blooper,9,5,4,-2,-4,4,12,10,8,2
+Monty Mole - Biddybuggy,3,9,3,11,9,4,8,14,8,13
+Monty Mole - Roadster Royale,10,7,6,8,6,6,11,8,6,37
+Monty Mole - B—Dasher,10,7,6,8,6,6,11,8,6,37
+Monty Mole - Hot Rod,10,7,6,8,6,6,11,8,6,37
+Monty Mole - Bumble V,10,7,6,8,6,6,11,8,6,37
+Monty Mole - Zoom Buggy,6,11,6,8,6,6,6,13,6,14
+Monty Mole - Rally Kart,6,11,6,8,6,6,6,13,6,14
+Monty Mole - Cloud 9,6,7,10,8,6,6,6,8,11,35
+Monty Mole - Ribbit Revster,6,7,10,8,6,6,6,8,11,35
+Monty Mole - Carpet Flyer,6,7,10,8,6,6,6,8,11,35
+Monty Mole - Billdozer,-7,-3,-4,6,4,8,10,6,4,5
+Monty Mole - Big Horn,-7,-3,-4,6,4,8,10,6,4,5
+Monty Mole - Bowser Bruiser,9,13,9,5,3,8,4,12,4,4
+Monty Mole - Li'l Dumpy,9,13,9,5,3,8,4,12,4,4
+Monty Mole - Tiny Titan,9,13,9,5,3,8,4,12,4,4
+Monty Mole - Chargin Truck,9,13,9,5,3,8,4,12,4,4
+Monty Mole - Mecha Trike,9,10,12,5,3,8,4,6,10,15
+Monty Mole - Rallygator,-7,-3,-4,7,5,9,8,5,3,5
+Monty Mole - Lobster Roller,9,10,12,6,4,9,3,5,8,22
+Monty Mole - Standard Bike,3,4,3,13,11,3,10,12,10,60
+Monty Mole - Cute Scoot,3,4,3,13,11,3,10,12,10,60
+Monty Mole - Tune Thumper,3,4,3,13,11,3,10,12,10,60
+Monty Mole - Pipe Frame,4,5,4,12,10,4,9,11,9,30
+Monty Mole - Loco Moto,6,7,6,10,8,4,9,11,9,6
+Monty Mole - Blastronaut III,7,8,7,10,8,6,6,8,6,76
+Monty Mole - Standard Kart,7,8,7,9,7,5,8,10,8,1
+Monty Mole - Plushbuggy,7,8,7,9,7,5,8,10,8,1
+Monty Mole - W—Twin Chopper,9,10,9,7,5,5,8,10,8,56
+Monty Mole - Reel Racer,10,11,10,6,4,6,7,9,7,56
+Monty Mole - Junkyard Hog,10,11,10,7,5,7,5,7,5,38
+Monty Mole - Funky Dorrie,6,7,10,9,7,8,4,6,9,29
+Monty Mole - Dread Sled,5,12,7,7,5,6,6,14,7,14
+Monty Mole - Stellar Sled,8,11,13,4,2,8,4,7,11,15
+Bowser Jr - Mach Rocket,8,3,4,-3,-5,3,13,9,11,2
+Bowser Jr - R.O.B. H.O.G.,8,3,4,-3,-5,3,13,9,11,2
+Bowser Jr - Rally Bike,2,7,3,12,10,3,9,13,11,23
+Bowser Jr - Hyper Pipe,2,7,3,12,10,3,9,13,11,23
+Bowser Jr - Fin Twin,2,2,8,12,10,3,9,9,15,11
+Bowser Jr - Dolphin Dasher,2,2,8,12,10,3,9,9,15,11
+Bowser Jr - Baby Blooper,9,4,5,-2,-4,4,12,8,10,9
+Bowser Jr - Biddybuggy,3,8,4,11,9,4,8,12,10,84
+Bowser Jr - Roadster Royale,10,6,7,8,6,6,11,6,8,49
+Bowser Jr - B—Dasher,10,6,7,8,6,6,11,6,8,49
+Bowser Jr - Hot Rod,10,6,7,8,6,6,11,6,8,49
+Bowser Jr - Bumble V,10,6,7,8,6,6,11,6,8,49
+Bowser Jr - Zoom Buggy,6,10,7,8,6,6,6,11,8,68
+Bowser Jr - Rally Kart,6,10,7,8,6,6,6,11,8,68
+Bowser Jr - Cloud 9,6,6,11,8,6,6,6,6,13,35
+Bowser Jr - Ribbit Revster,6,6,11,8,6,6,6,6,13,35
+Bowser Jr - Carpet Flyer,6,6,11,8,6,6,6,6,13,35
+Bowser Jr - Billdozer,-7,-4,-3,6,4,8,10,4,6,5
+Bowser Jr - Big Horn,-7,-4,-3,6,4,8,10,4,6,5
+Bowser Jr - Bowser Bruiser,9,12,10,5,3,8,4,10,6,64
+Bowser Jr - Li'l Dumpy,9,12,10,5,3,8,4,10,6,64
+Bowser Jr - Tiny Titan,9,12,10,5,3,8,4,10,6,64
+Bowser Jr - Chargin Truck,9,12,10,5,3,8,4,10,6,64
+Bowser Jr - Mecha Trike,9,9,13,5,3,8,4,4,12,15
+Bowser Jr - Rallygator,-7,-4,-3,7,5,9,8,3,5,36
+Bowser Jr - Lobster Roller,9,9,13,6,4,9,3,3,10,22
+Bowser Jr - Standard Bike,3,3,4,13,11,3,10,10,12,41
+Bowser Jr - Cute Scoot,3,3,4,13,11,3,10,10,12,41
+Bowser Jr - Tune Thumper,3,3,4,13,11,3,10,10,12,41
+Bowser Jr - Pipe Frame,4,4,5,12,10,4,9,9,11,30
+Bowser Jr - Loco Moto,6,6,7,10,8,4,9,9,11,48
+Bowser Jr - Blastronaut III,7,7,8,10,8,6,6,6,8,76
+Bowser Jr - Standard Kart,7,7,8,9,7,5,8,8,10,1
+Bowser Jr - Plushbuggy,7,7,8,9,7,5,8,8,10,1
+Bowser Jr - W—Twin Chopper,9,9,10,7,5,5,8,8,10,56
+Bowser Jr - Reel Racer,10,10,11,6,4,6,7,7,9,56
+Bowser Jr - Junkyard Hog,10,10,11,7,5,7,5,5,7,38
+Bowser Jr - Funky Dorrie,6,6,11,9,7,8,4,4,11,52
+Bowser Jr - Dread Sled,5,11,8,7,5,6,6,12,9,47
+Bowser Jr - Stellar Sled,8,10,14,4,2,8,4,5,13,15
+Dolphin - Mach Rocket,8,3,4,-3,-5,3,13,9,11,2
+Dolphin - R.O.B. H.O.G.,8,3,4,-3,-5,3,13,9,11,2
+Dolphin - Rally Bike,2,7,3,12,10,3,9,13,11,23
+Dolphin - Hyper Pipe,2,7,3,12,10,3,9,13,11,23
+Dolphin - Fin Twin,2,2,8,12,10,3,9,9,15,11
+Dolphin - Dolphin Dasher,2,2,8,12,10,3,9,9,15,11
+Dolphin - Baby Blooper,9,4,5,-2,-4,4,12,8,10,9
+Dolphin - Biddybuggy,3,8,4,11,9,4,8,12,10,84
+Dolphin - Roadster Royale,10,6,7,8,6,6,11,6,8,49
+Dolphin - B—Dasher,10,6,7,8,6,6,11,6,8,49
+Dolphin - Hot Rod,10,6,7,8,6,6,11,6,8,49
+Dolphin - Bumble V,10,6,7,8,6,6,11,6,8,49
+Dolphin - Zoom Buggy,6,10,7,8,6,6,6,11,8,68
+Dolphin - Rally Kart,6,10,7,8,6,6,6,11,8,68
+Dolphin - Cloud 9,6,6,11,8,6,6,6,6,13,35
+Dolphin - Ribbit Revster,6,6,11,8,6,6,6,6,13,35
+Dolphin - Carpet Flyer,6,6,11,8,6,6,6,6,13,35
+Dolphin - Billdozer,-7,-4,-3,6,4,8,10,4,6,5
+Dolphin - Big Horn,-7,-4,-3,6,4,8,10,4,6,5
+Dolphin - Bowser Bruiser,9,12,10,5,3,8,4,10,6,64
+Dolphin - Li'l Dumpy,9,12,10,5,3,8,4,10,6,64
+Dolphin - Tiny Titan,9,12,10,5,3,8,4,10,6,64
+Dolphin - Chargin Truck,9,12,10,5,3,8,4,10,6,64
+Dolphin - Mecha Trike,9,9,13,5,3,8,4,4,12,15
+Dolphin - Rallygator,-7,-4,-3,7,5,9,8,3,5,36
+Dolphin - Lobster Roller,9,9,13,6,4,9,3,3,10,22
+Dolphin - Standard Bike,3,3,4,13,11,3,10,10,12,41
+Dolphin - Cute Scoot,3,3,4,13,11,3,10,10,12,41
+Dolphin - Tune Thumper,3,3,4,13,11,3,10,10,12,41
+Dolphin - Pipe Frame,4,4,5,12,10,4,9,9,11,30
+Dolphin - Loco Moto,6,6,7,10,8,4,9,9,11,48
+Dolphin - Blastronaut III,7,7,8,10,8,6,6,6,8,76
+Dolphin - Standard Kart,7,7,8,9,7,5,8,8,10,1
+Dolphin - Plushbuggy,7,7,8,9,7,5,8,8,10,1
+Dolphin - W—Twin Chopper,9,9,10,7,5,5,8,8,10,56
+Dolphin - Reel Racer,10,10,11,6,4,6,7,7,9,56
+Dolphin - Junkyard Hog,10,10,11,7,5,7,5,5,7,38
+Dolphin - Funky Dorrie,6,6,11,9,7,8,4,4,11,52
+Dolphin - Dread Sled,5,11,8,7,5,6,6,12,9,47
+Dolphin - Stellar Sled,8,10,14,4,2,8,4,5,13,15
+Mario - Mach Rocket,10,4,4,-4,-6,4,14,8,8,9
+Mario - R.O.B. H.O.G.,10,4,4,-4,-6,4,14,8,8,9
+Mario - Rally Bike,4,8,3,11,9,4,10,12,8,13
+Mario - Hyper Pipe,4,8,3,11,9,4,10,12,8,13
+Mario - Fin Twin,4,3,8,11,9,4,10,8,12,11
+Mario - Dolphin Dasher,4,3,8,11,9,4,10,8,12,11
+Mario - Baby Blooper,11,5,5,-3,-5,5,13,7,7,9
+Mario - Biddybuggy,5,9,4,10,8,5,9,11,7,32
+Mario - Roadster Royale,12,7,7,7,5,7,12,5,5,26
+Mario - B—Dasher,12,7,7,7,5,7,12,5,5,26
+Mario - Hot Rod,12,7,7,7,5,7,12,5,5,26
+Mario - Bumble V,12,7,7,7,5,7,12,5,5,26
+Mario - Zoom Buggy,8,11,7,7,5,7,7,10,5,99
+Mario - Rally Kart,8,11,7,7,5,7,7,10,5,99
+Mario - Cloud 9,8,7,11,7,5,7,7,5,10,25
+Mario - Ribbit Revster,8,7,11,7,5,7,7,5,10,25
+Mario - Carpet Flyer,8,7,11,7,5,7,7,5,10,25
+Mario - Billdozer,-5,-3,-3,5,3,9,11,3,3,93
+Mario - Big Horn,-5,-3,-3,5,3,9,11,3,3,93
+Mario - Bowser Bruiser,11,13,10,4,2,9,5,9,3,33
+Mario - Li'l Dumpy,11,13,10,4,2,9,5,9,3,33
+Mario - Tiny Titan,11,13,10,4,2,9,5,9,3,33
+Mario - Chargin Truck,11,13,10,4,2,9,5,9,3,33
+Mario - Mecha Trike,11,10,13,4,2,9,5,3,9,90
+Mario - Rallygator,-5,-3,-3,6,4,10,9,2,2,93
+Mario - Lobster Roller,11,10,13,5,3,10,4,2,7,22
+Mario - Standard Bike,5,4,4,12,10,4,11,9,9,30
+Mario - Cute Scoot,5,4,4,12,10,4,11,9,9,30
+Mario - Tune Thumper,5,4,4,12,10,4,11,9,9,30
+Mario - Pipe Frame,6,5,5,11,9,5,10,8,8,17
+Mario - Loco Moto,8,7,7,9,7,5,10,8,8,1
+Mario - Blastronaut III,9,8,8,9,7,7,7,5,5,76
+Mario - Standard Kart,9,8,8,8,6,6,9,7,7,1
+Mario - Plushbuggy,9,8,8,8,6,6,9,7,7,1
+Mario - W—Twin Chopper,11,10,10,6,4,6,9,7,7,56
+Mario - Reel Racer,12,11,11,5,3,7,8,6,6,21
+Mario - Junkyard Hog,12,11,11,6,4,8,6,4,4,38
+Mario - Funky Dorrie,8,7,11,8,6,9,5,3,8,52
+Mario - Dread Sled,7,12,8,6,4,7,7,11,6,99
+Mario - Stellar Sled,10,11,14,3,1,9,5,4,10,90
+Rocky Wrench - Mach Rocket,10,4,4,-4,-6,4,14,8,8,9
+Rocky Wrench - R.O.B. H.O.G.,10,4,4,-4,-6,4,14,8,8,9
+Rocky Wrench - Rally Bike,4,8,3,11,9,4,10,12,8,13
+Rocky Wrench - Hyper Pipe,4,8,3,11,9,4,10,12,8,13
+Rocky Wrench - Fin Twin,4,3,8,11,9,4,10,8,12,11
+Rocky Wrench - Dolphin Dasher,4,3,8,11,9,4,10,8,12,11
+Rocky Wrench - Baby Blooper,11,5,5,-3,-5,5,13,7,7,9
+Rocky Wrench - Biddybuggy,5,9,4,10,8,5,9,11,7,32
+Rocky Wrench - Roadster Royale,12,7,7,7,5,7,12,5,5,26
+Rocky Wrench - B—Dasher,12,7,7,7,5,7,12,5,5,26
+Rocky Wrench - Hot Rod,12,7,7,7,5,7,12,5,5,26
+Rocky Wrench - Bumble V,12,7,7,7,5,7,12,5,5,26
+Rocky Wrench - Zoom Buggy,8,11,7,7,5,7,7,10,5,99
+Rocky Wrench - Rally Kart,8,11,7,7,5,7,7,10,5,99
+Rocky Wrench - Cloud 9,8,7,11,7,5,7,7,5,10,25
+Rocky Wrench - Ribbit Revster,8,7,11,7,5,7,7,5,10,25
+Rocky Wrench - Carpet Flyer,8,7,11,7,5,7,7,5,10,25
+Rocky Wrench - Billdozer,-5,-3,-3,5,3,9,11,3,3,93
+Rocky Wrench - Big Horn,-5,-3,-3,5,3,9,11,3,3,93
+Rocky Wrench - Bowser Bruiser,11,13,10,4,2,9,5,9,3,33
+Rocky Wrench - Li'l Dumpy,11,13,10,4,2,9,5,9,3,33
+Rocky Wrench - Tiny Titan,11,13,10,4,2,9,5,9,3,33
+Rocky Wrench - Chargin Truck,11,13,10,4,2,9,5,9,3,33
+Rocky Wrench - Mecha Trike,11,10,13,4,2,9,5,3,9,90
+Rocky Wrench - Rallygator,-5,-3,-3,6,4,10,9,2,2,93
+Rocky Wrench - Lobster Roller,11,10,13,5,3,10,4,2,7,22
+Rocky Wrench - Standard Bike,5,4,4,12,10,4,11,9,9,30
+Rocky Wrench - Cute Scoot,5,4,4,12,10,4,11,9,9,30
+Rocky Wrench - Tune Thumper,5,4,4,12,10,4,11,9,9,30
+Rocky Wrench - Pipe Frame,6,5,5,11,9,5,10,8,8,17
+Rocky Wrench - Loco Moto,8,7,7,9,7,5,10,8,8,1
+Rocky Wrench - Blastronaut III,9,8,8,9,7,7,7,5,5,76
+Rocky Wrench - Standard Kart,9,8,8,8,6,6,9,7,7,1
+Rocky Wrench - Plushbuggy,9,8,8,8,6,6,9,7,7,1
+Rocky Wrench - W—Twin Chopper,11,10,10,6,4,6,9,7,7,56
+Rocky Wrench - Reel Racer,12,11,11,5,3,7,8,6,6,21
+Rocky Wrench - Junkyard Hog,12,11,11,6,4,8,6,4,4,38
+Rocky Wrench - Funky Dorrie,8,7,11,8,6,9,5,3,8,52
+Rocky Wrench - Dread Sled,7,12,8,6,4,7,7,11,6,99
+Rocky Wrench - Stellar Sled,10,11,14,3,1,9,5,4,10,90
+Luigi - Mach Rocket,9,5,4,-4,-6,4,12,10,8,9
+Luigi - R.O.B. H.O.G.,9,5,4,-4,-6,4,12,10,8,9
+Luigi - Rally Bike,3,9,3,11,9,4,8,14,8,13
+Luigi - Hyper Pipe,3,9,3,11,9,4,8,14,8,13
+Luigi - Fin Twin,3,4,8,11,9,4,8,10,12,11
+Luigi - Dolphin Dasher,3,4,8,11,9,4,8,10,12,11
+Luigi - Baby Blooper,10,6,5,-3,-5,5,11,9,7,9
+Luigi - Biddybuggy,4,10,4,10,8,5,7,13,7,44
+Luigi - Roadster Royale,11,8,7,7,5,7,10,7,5,37
+Luigi - B—Dasher,11,8,7,7,5,7,10,7,5,37
+Luigi - Hot Rod,11,8,7,7,5,7,10,7,5,37
+Luigi - Bumble V,11,8,7,7,5,7,10,7,5,37
+Luigi - Zoom Buggy,7,12,7,7,5,7,5,12,5,74
+Luigi - Rally Kart,7,12,7,7,5,7,5,12,5,74
+Luigi - Cloud 9,7,8,11,7,5,7,5,7,10,81
+Luigi - Ribbit Revster,7,8,11,7,5,7,5,7,10,81
+Luigi - Carpet Flyer,7,8,11,7,5,7,5,7,10,81
+Luigi - Billdozer,-6,-2,-3,5,3,9,9,5,3,36
+Luigi - Big Horn,-6,-2,-3,5,3,9,9,5,3,36
+Luigi - Bowser Bruiser,10,14,10,4,2,9,3,11,3,4
+Luigi - Li'l Dumpy,10,14,10,4,2,9,3,11,3,4
+Luigi - Tiny Titan,10,14,10,4,2,9,3,11,3,4
+Luigi - Chargin Truck,10,14,10,4,2,9,3,11,3,4
+Luigi - Mecha Trike,10,11,13,4,2,9,3,5,9,46
+Luigi - Rallygator,-6,-2,-3,6,4,10,7,4,2,36
+Luigi - Lobster Roller,10,11,13,5,3,10,2,4,7,22
+Luigi - Standard Bike,4,5,4,12,10,4,9,11,9,30
+Luigi - Cute Scoot,4,5,4,12,10,4,9,11,9,30
+Luigi - Tune Thumper,4,5,4,12,10,4,9,11,9,30
+Luigi - Pipe Frame,5,6,5,11,9,5,8,10,8,6
+Luigi - Loco Moto,7,8,7,9,7,5,8,10,8,1
+Luigi - Blastronaut III,8,9,8,9,7,7,5,7,5,76
+Luigi - Standard Kart,8,9,8,8,6,6,7,9,7,66
+Luigi - Plushbuggy,8,9,8,8,6,6,7,9,7,66
+Luigi - W—Twin Chopper,10,11,10,6,4,6,7,9,7,56
+Luigi - Reel Racer,11,12,11,5,3,7,6,8,6,21
+Luigi - Junkyard Hog,11,12,11,6,4,8,4,6,4,38
+Luigi - Funky Dorrie,7,8,11,8,6,9,3,5,8,52
+Luigi - Dread Sled,6,13,8,6,4,7,5,13,6,74
+Luigi - Stellar Sled,9,12,14,3,1,9,3,6,10,46
+Hammer Bro - Mach Rocket,9,5,4,-4,-6,4,12,10,8,9
+Hammer Bro - R.O.B. H.O.G.,9,5,4,-4,-6,4,12,10,8,9
+Hammer Bro - Rally Bike,3,9,3,11,9,4,8,14,8,13
+Hammer Bro - Hyper Pipe,3,9,3,11,9,4,8,14,8,13
+Hammer Bro - Fin Twin,3,4,8,11,9,4,8,10,12,11
+Hammer Bro - Dolphin Dasher,3,4,8,11,9,4,8,10,12,11
+Hammer Bro - Baby Blooper,10,6,5,-3,-5,5,11,9,7,9
+Hammer Bro - Biddybuggy,4,10,4,10,8,5,7,13,7,44
+Hammer Bro - Roadster Royale,11,8,7,7,5,7,10,7,5,37
+Hammer Bro - B—Dasher,11,8,7,7,5,7,10,7,5,37
+Hammer Bro - Hot Rod,11,8,7,7,5,7,10,7,5,37
+Hammer Bro - Bumble V,11,8,7,7,5,7,10,7,5,37
+Hammer Bro - Zoom Buggy,7,12,7,7,5,7,5,12,5,74
+Hammer Bro - Rally Kart,7,12,7,7,5,7,5,12,5,74
+Hammer Bro - Cloud 9,7,8,11,7,5,7,5,7,10,81
+Hammer Bro - Ribbit Revster,7,8,11,7,5,7,5,7,10,81
+Hammer Bro - Carpet Flyer,7,8,11,7,5,7,5,7,10,81
+Hammer Bro - Billdozer,-6,-2,-3,5,3,9,9,5,3,36
+Hammer Bro - Big Horn,-6,-2,-3,5,3,9,9,5,3,36
+Hammer Bro - Bowser Bruiser,10,14,10,4,2,9,3,11,3,4
+Hammer Bro - Li'l Dumpy,10,14,10,4,2,9,3,11,3,4
+Hammer Bro - Tiny Titan,10,14,10,4,2,9,3,11,3,4
+Hammer Bro - Chargin Truck,10,14,10,4,2,9,3,11,3,4
+Hammer Bro - Mecha Trike,10,11,13,4,2,9,3,5,9,46
+Hammer Bro - Rallygator,-6,-2,-3,6,4,10,7,4,2,36
+Hammer Bro - Lobster Roller,10,11,13,5,3,10,2,4,7,22
+Hammer Bro - Standard Bike,4,5,4,12,10,4,9,11,9,30
+Hammer Bro - Cute Scoot,4,5,4,12,10,4,9,11,9,30
+Hammer Bro - Tune Thumper,4,5,4,12,10,4,9,11,9,30
+Hammer Bro - Pipe Frame,5,6,5,11,9,5,8,10,8,6
+Hammer Bro - Loco Moto,7,8,7,9,7,5,8,10,8,1
+Hammer Bro - Blastronaut III,8,9,8,9,7,7,5,7,5,76
+Hammer Bro - Standard Kart,8,9,8,8,6,6,7,9,7,66
+Hammer Bro - Plushbuggy,8,9,8,8,6,6,7,9,7,66
+Hammer Bro - W—Twin Chopper,10,11,10,6,4,6,7,9,7,56
+Hammer Bro - Reel Racer,11,12,11,5,3,7,6,8,6,21
+Hammer Bro - Junkyard Hog,11,12,11,6,4,8,4,6,4,38
+Hammer Bro - Funky Dorrie,7,8,11,8,6,9,3,5,8,52
+Hammer Bro - Dread Sled,6,13,8,6,4,7,5,13,6,74
+Hammer Bro - Stellar Sled,9,12,14,3,1,9,3,6,10,46
+Pokey - Mach Rocket,9,5,4,-4,-6,4,12,10,8,9
+Pokey - R.O.B. H.O.G.,9,5,4,-4,-6,4,12,10,8,9
+Pokey - Rally Bike,3,9,3,11,9,4,8,14,8,13
+Pokey - Hyper Pipe,3,9,3,11,9,4,8,14,8,13
+Pokey - Fin Twin,3,4,8,11,9,4,8,10,12,11
+Pokey - Dolphin Dasher,3,4,8,11,9,4,8,10,12,11
+Pokey - Baby Blooper,10,6,5,-3,-5,5,11,9,7,9
+Pokey - Biddybuggy,4,10,4,10,8,5,7,13,7,44
+Pokey - Roadster Royale,11,8,7,7,5,7,10,7,5,37
+Pokey - B—Dasher,11,8,7,7,5,7,10,7,5,37
+Pokey - Hot Rod,11,8,7,7,5,7,10,7,5,37
+Pokey - Bumble V,11,8,7,7,5,7,10,7,5,37
+Pokey - Zoom Buggy,7,12,7,7,5,7,5,12,5,74
+Pokey - Rally Kart,7,12,7,7,5,7,5,12,5,74
+Pokey - Cloud 9,7,8,11,7,5,7,5,7,10,81
+Pokey - Ribbit Revster,7,8,11,7,5,7,5,7,10,81
+Pokey - Carpet Flyer,7,8,11,7,5,7,5,7,10,81
+Pokey - Billdozer,-6,-2,-3,5,3,9,9,5,3,36
+Pokey - Big Horn,-6,-2,-3,5,3,9,9,5,3,36
+Pokey - Bowser Bruiser,10,14,10,4,2,9,3,11,3,4
+Pokey - Li'l Dumpy,10,14,10,4,2,9,3,11,3,4
+Pokey - Tiny Titan,10,14,10,4,2,9,3,11,3,4
+Pokey - Chargin Truck,10,14,10,4,2,9,3,11,3,4
+Pokey - Mecha Trike,10,11,13,4,2,9,3,5,9,46
+Pokey - Rallygator,-6,-2,-3,6,4,10,7,4,2,36
+Pokey - Lobster Roller,10,11,13,5,3,10,2,4,7,22
+Pokey - Standard Bike,4,5,4,12,10,4,9,11,9,30
+Pokey - Cute Scoot,4,5,4,12,10,4,9,11,9,30
+Pokey - Tune Thumper,4,5,4,12,10,4,9,11,9,30
+Pokey - Pipe Frame,5,6,5,11,9,5,8,10,8,6
+Pokey - Loco Moto,7,8,7,9,7,5,8,10,8,1
+Pokey - Blastronaut III,8,9,8,9,7,7,5,7,5,76
+Pokey - Standard Kart,8,9,8,8,6,6,7,9,7,66
+Pokey - Plushbuggy,8,9,8,8,6,6,7,9,7,66
+Pokey - W—Twin Chopper,10,11,10,6,4,6,7,9,7,56
+Pokey - Reel Racer,11,12,11,5,3,7,6,8,6,21
+Pokey - Junkyard Hog,11,12,11,6,4,8,4,6,4,38
+Pokey - Funky Dorrie,7,8,11,8,6,9,3,5,8,52
+Pokey - Dread Sled,6,13,8,6,4,7,5,13,6,74
+Pokey - Stellar Sled,9,12,14,3,1,9,3,6,10,46
+Birdo - Mach Rocket,9,4,5,-4,-6,4,12,8,10,9
+Birdo - R.O.B. H.O.G.,9,4,5,-4,-6,4,12,8,10,9
+Birdo - Rally Bike,3,8,4,11,9,4,8,12,10,84
+Birdo - Hyper Pipe,3,8,4,11,9,4,8,12,10,84
+Birdo - Fin Twin,3,3,9,11,9,4,8,8,14,11
+Birdo - Dolphin Dasher,3,3,9,11,9,4,8,8,14,11
+Birdo - Baby Blooper,10,5,6,-3,-5,5,11,7,9,9
+Birdo - Biddybuggy,4,9,5,10,8,5,7,11,9,84
+Birdo - Roadster Royale,11,7,8,7,5,7,10,5,7,49
+Birdo - B—Dasher,11,7,8,7,5,7,10,5,7,49
+Birdo - Hot Rod,11,7,8,7,5,7,10,5,7,49
+Birdo - Bumble V,11,7,8,7,5,7,10,5,7,49
+Birdo - Zoom Buggy,7,11,8,7,5,7,5,10,7,47
+Birdo - Rally Kart,7,11,8,7,5,7,5,10,7,47
+Birdo - Cloud 9,7,7,12,7,5,7,5,5,12,78
+Birdo - Ribbit Revster,7,7,12,7,5,7,5,5,12,78
+Birdo - Carpet Flyer,7,7,12,7,5,7,5,5,12,78
+Birdo - Billdozer,-6,-3,-2,5,3,9,9,3,5,36
+Birdo - Big Horn,-6,-3,-2,5,3,9,9,3,5,36
+Birdo - Bowser Bruiser,10,13,11,4,2,9,3,9,5,31
+Birdo - Li'l Dumpy,10,13,11,4,2,9,3,9,5,31
+Birdo - Tiny Titan,10,13,11,4,2,9,3,9,5,31
+Birdo - Chargin Truck,10,13,11,4,2,9,3,9,5,31
+Birdo - Mecha Trike,10,10,14,4,2,9,3,3,11,46
+Birdo - Rallygator,-6,-3,-2,6,4,10,7,2,4,36
+Birdo - Lobster Roller,10,10,14,5,3,10,2,2,9,22
+Birdo - Standard Bike,4,4,5,12,10,4,9,9,11,30
+Birdo - Cute Scoot,4,4,5,12,10,4,9,9,11,30
+Birdo - Tune Thumper,4,4,5,12,10,4,9,9,11,30
+Birdo - Pipe Frame,5,5,6,11,9,5,8,8,10,71
+Birdo - Loco Moto,7,7,8,9,7,5,8,8,10,1
+Birdo - Blastronaut III,8,8,9,9,7,7,5,5,7,76
+Birdo - Standard Kart,8,8,9,8,6,6,7,7,9,92
+Birdo - Plushbuggy,8,8,9,8,6,6,7,7,9,92
+Birdo - W—Twin Chopper,10,10,11,6,4,6,7,7,9,56
+Birdo - Reel Racer,11,11,12,5,3,7,6,6,8,21
+Birdo - Junkyard Hog,11,11,12,6,4,8,4,4,6,38
+Birdo - Funky Dorrie,7,7,12,8,6,9,3,3,10,52
+Birdo - Dread Sled,6,12,9,6,4,7,5,11,8,47
+Birdo - Stellar Sled,9,11,15,3,1,9,3,4,12,46
+Penguin - Mach Rocket,9,4,5,-4,-6,4,12,8,10,9
+Penguin - R.O.B. H.O.G.,9,4,5,-4,-6,4,12,8,10,9
+Penguin - Rally Bike,3,8,4,11,9,4,8,12,10,84
+Penguin - Hyper Pipe,3,8,4,11,9,4,8,12,10,84
+Penguin - Fin Twin,3,3,9,11,9,4,8,8,14,11
+Penguin - Dolphin Dasher,3,3,9,11,9,4,8,8,14,11
+Penguin - Baby Blooper,10,5,6,-3,-5,5,11,7,9,9
+Penguin - Biddybuggy,4,9,5,10,8,5,7,11,9,84
+Penguin - Roadster Royale,11,7,8,7,5,7,10,5,7,49
+Penguin - B—Dasher,11,7,8,7,5,7,10,5,7,49
+Penguin - Hot Rod,11,7,8,7,5,7,10,5,7,49
+Penguin - Bumble V,11,7,8,7,5,7,10,5,7,49
+Penguin - Zoom Buggy,7,11,8,7,5,7,5,10,7,47
+Penguin - Rally Kart,7,11,8,7,5,7,5,10,7,47
+Penguin - Cloud 9,7,7,12,7,5,7,5,5,12,78
+Penguin - Ribbit Revster,7,7,12,7,5,7,5,5,12,78
+Penguin - Carpet Flyer,7,7,12,7,5,7,5,5,12,78
+Penguin - Billdozer,-6,-3,-2,5,3,9,9,3,5,36
+Penguin - Big Horn,-6,-3,-2,5,3,9,9,3,5,36
+Penguin - Bowser Bruiser,10,13,11,4,2,9,3,9,5,31
+Penguin - Li'l Dumpy,10,13,11,4,2,9,3,9,5,31
+Penguin - Tiny Titan,10,13,11,4,2,9,3,9,5,31
+Penguin - Chargin Truck,10,13,11,4,2,9,3,9,5,31
+Penguin - Mecha Trike,10,10,14,4,2,9,3,3,11,46
+Penguin - Rallygator,-6,-3,-2,6,4,10,7,2,4,36
+Penguin - Lobster Roller,10,10,14,5,3,10,2,2,9,22
+Penguin - Standard Bike,4,4,5,12,10,4,9,9,11,30
+Penguin - Cute Scoot,4,4,5,12,10,4,9,9,11,30
+Penguin - Tune Thumper,4,4,5,12,10,4,9,9,11,30
+Penguin - Pipe Frame,5,5,6,11,9,5,8,8,10,71
+Penguin - Loco Moto,7,7,8,9,7,5,8,8,10,1
+Penguin - Blastronaut III,8,8,9,9,7,7,5,5,7,76
+Penguin - Standard Kart,8,8,9,8,6,6,7,7,9,92
+Penguin - Plushbuggy,8,8,9,8,6,6,7,7,9,92
+Penguin - W—Twin Chopper,10,10,11,6,4,6,7,7,9,56
+Penguin - Reel Racer,11,11,12,5,3,7,6,6,8,21
+Penguin - Junkyard Hog,11,11,12,6,4,8,4,4,6,38
+Penguin - Funky Dorrie,7,7,12,8,6,9,3,3,10,52
+Penguin - Dread Sled,6,12,9,6,4,7,5,11,8,47
+Penguin - Stellar Sled,9,11,15,3,1,9,3,4,12,46
+Pauline - Mach Rocket,11,5,5,-5,-7,5,13,7,7,9
+Pauline - R.O.B. H.O.G.,11,5,5,-5,-7,5,13,7,7,9
+Pauline - Rally Bike,5,9,4,10,8,5,9,11,7,32
+Pauline - Hyper Pipe,5,9,4,10,8,5,9,11,7,32
+Pauline - Fin Twin,5,4,9,10,8,5,9,7,11,73
+Pauline - Dolphin Dasher,5,4,9,10,8,5,9,7,11,73
+Pauline - Baby Blooper,12,6,6,-4,-6,6,12,6,6,0
+Pauline - Biddybuggy,6,10,5,9,7,6,8,10,6,32
+Pauline - Roadster Royale,13,8,8,6,4,8,11,4,4,26
+Pauline - B—Dasher,13,8,8,6,4,8,11,4,4,26
+Pauline - Hot Rod,13,8,8,6,4,8,11,4,4,26
+Pauline - Bumble V,13,8,8,6,4,8,11,4,4,26
+Pauline - Zoom Buggy,9,12,8,6,4,8,6,9,4,50
+Pauline - Rally Kart,9,12,8,6,4,8,6,9,4,50
+Pauline - Cloud 9,9,8,12,6,4,8,6,4,9,83
+Pauline - Ribbit Revster,9,8,12,6,4,8,6,4,9,83
+Pauline - Carpet Flyer,9,8,12,6,4,8,6,4,9,83
+Pauline - Billdozer,-4,-2,-2,4,2,10,10,2,2,95
+Pauline - Big Horn,-4,-2,-2,4,2,10,10,2,2,95
+Pauline - Bowser Bruiser,12,14,11,3,1,10,4,8,2,87
+Pauline - Li'l Dumpy,12,14,11,3,1,10,4,8,2,87
+Pauline - Tiny Titan,12,14,11,3,1,10,4,8,2,87
+Pauline - Chargin Truck,12,14,11,3,1,10,4,8,2,87
+Pauline - Mecha Trike,12,11,14,3,1,10,4,2,8,7
+Pauline - Rallygator,-4,-2,-2,5,3,11,8,1,1,95
+Pauline - Lobster Roller,12,11,14,4,2,11,3,1,6,7
+Pauline - Standard Bike,6,5,5,11,9,5,10,8,8,17
+Pauline - Cute Scoot,6,5,5,11,9,5,10,8,8,17
+Pauline - Tune Thumper,6,5,5,11,9,5,10,8,8,17
+Pauline - Pipe Frame,7,6,6,10,8,6,9,7,7,17
+Pauline - Loco Moto,9,8,8,8,6,6,9,7,7,1
+Pauline - Blastronaut III,10,9,9,8,6,8,6,4,4,77
+Pauline - Standard Kart,10,9,9,7,5,7,8,6,6,61
+Pauline - Plushbuggy,10,9,9,7,5,7,8,6,6,61
+Pauline - W—Twin Chopper,12,11,11,5,3,7,8,6,6,21
+Pauline - Reel Racer,13,12,12,4,2,8,7,5,5,21
+Pauline - Junkyard Hog,13,12,12,5,3,9,5,3,3,8
+Pauline - Funky Dorrie,9,8,12,7,5,10,4,2,7,69
+Pauline - Dread Sled,8,13,9,5,3,8,6,10,5,50
+Pauline - Stellar Sled,11,12,15,2,0,10,4,3,9,46
+Snowman - Mach Rocket,11,5,5,-5,-7,5,13,7,7,9
+Snowman - R.O.B. H.O.G.,11,5,5,-5,-7,5,13,7,7,9
+Snowman - Rally Bike,5,9,4,10,8,5,9,11,7,32
+Snowman - Hyper Pipe,5,9,4,10,8,5,9,11,7,32
+Snowman - Fin Twin,5,4,9,10,8,5,9,7,11,73
+Snowman - Dolphin Dasher,5,4,9,10,8,5,9,7,11,73
+Snowman - Baby Blooper,12,6,6,-4,-6,6,12,6,6,0
+Snowman - Biddybuggy,6,10,5,9,7,6,8,10,6,32
+Snowman - Roadster Royale,13,8,8,6,4,8,11,4,4,26
+Snowman - B—Dasher,13,8,8,6,4,8,11,4,4,26
+Snowman - Hot Rod,13,8,8,6,4,8,11,4,4,26
+Snowman - Bumble V,13,8,8,6,4,8,11,4,4,26
+Snowman - Zoom Buggy,9,12,8,6,4,8,6,9,4,50
+Snowman - Rally Kart,9,12,8,6,4,8,6,9,4,50
+Snowman - Cloud 9,9,8,12,6,4,8,6,4,9,83
+Snowman - Ribbit Revster,9,8,12,6,4,8,6,4,9,83
+Snowman - Carpet Flyer,9,8,12,6,4,8,6,4,9,83
+Snowman - Billdozer,-4,-2,-2,4,2,10,10,2,2,95
+Snowman - Big Horn,-4,-2,-2,4,2,10,10,2,2,95
+Snowman - Bowser Bruiser,12,14,11,3,1,10,4,8,2,87
+Snowman - Li'l Dumpy,12,14,11,3,1,10,4,8,2,87
+Snowman - Tiny Titan,12,14,11,3,1,10,4,8,2,87
+Snowman - Chargin Truck,12,14,11,3,1,10,4,8,2,87
+Snowman - Mecha Trike,12,11,14,3,1,10,4,2,8,7
+Snowman - Rallygator,-4,-2,-2,5,3,11,8,1,1,95
+Snowman - Lobster Roller,12,11,14,4,2,11,3,1,6,7
+Snowman - Standard Bike,6,5,5,11,9,5,10,8,8,17
+Snowman - Cute Scoot,6,5,5,11,9,5,10,8,8,17
+Snowman - Tune Thumper,6,5,5,11,9,5,10,8,8,17
+Snowman - Pipe Frame,7,6,6,10,8,6,9,7,7,17
+Snowman - Loco Moto,9,8,8,8,6,6,9,7,7,1
+Snowman - Blastronaut III,10,9,9,8,6,8,6,4,4,77
+Snowman - Standard Kart,10,9,9,7,5,7,8,6,6,61
+Snowman - Plushbuggy,10,9,9,7,5,7,8,6,6,61
+Snowman - W—Twin Chopper,12,11,11,5,3,7,8,6,6,21
+Snowman - Reel Racer,13,12,12,4,2,8,7,5,5,21
+Snowman - Junkyard Hog,13,12,12,5,3,9,5,3,3,8
+Snowman - Funky Dorrie,9,8,12,7,5,10,4,2,7,69
+Snowman - Dread Sled,8,13,9,5,3,8,6,10,5,50
+Snowman - Stellar Sled,11,12,15,2,0,10,4,3,9,46
+Piranha Plant - Mach Rocket,11,5,5,-5,-7,5,13,7,7,9
+Piranha Plant - R.O.B. H.O.G.,11,5,5,-5,-7,5,13,7,7,9
+Piranha Plant - Rally Bike,5,9,4,10,8,5,9,11,7,32
+Piranha Plant - Hyper Pipe,5,9,4,10,8,5,9,11,7,32
+Piranha Plant - Fin Twin,5,4,9,10,8,5,9,7,11,73
+Piranha Plant - Dolphin Dasher,5,4,9,10,8,5,9,7,11,73
+Piranha Plant - Baby Blooper,12,6,6,-4,-6,6,12,6,6,0
+Piranha Plant - Biddybuggy,6,10,5,9,7,6,8,10,6,32
+Piranha Plant - Roadster Royale,13,8,8,6,4,8,11,4,4,26
+Piranha Plant - B—Dasher,13,8,8,6,4,8,11,4,4,26
+Piranha Plant - Hot Rod,13,8,8,6,4,8,11,4,4,26
+Piranha Plant - Bumble V,13,8,8,6,4,8,11,4,4,26
+Piranha Plant - Zoom Buggy,9,12,8,6,4,8,6,9,4,50
+Piranha Plant - Rally Kart,9,12,8,6,4,8,6,9,4,50
+Piranha Plant - Cloud 9,9,8,12,6,4,8,6,4,9,83
+Piranha Plant - Ribbit Revster,9,8,12,6,4,8,6,4,9,83
+Piranha Plant - Carpet Flyer,9,8,12,6,4,8,6,4,9,83
+Piranha Plant - Billdozer,-4,-2,-2,4,2,10,10,2,2,95
+Piranha Plant - Big Horn,-4,-2,-2,4,2,10,10,2,2,95
+Piranha Plant - Bowser Bruiser,12,14,11,3,1,10,4,8,2,87
+Piranha Plant - Li'l Dumpy,12,14,11,3,1,10,4,8,2,87
+Piranha Plant - Tiny Titan,12,14,11,3,1,10,4,8,2,87
+Piranha Plant - Chargin Truck,12,14,11,3,1,10,4,8,2,87
+Piranha Plant - Mecha Trike,12,11,14,3,1,10,4,2,8,7
+Piranha Plant - Rallygator,-4,-2,-2,5,3,11,8,1,1,95
+Piranha Plant - Lobster Roller,12,11,14,4,2,11,3,1,6,7
+Piranha Plant - Standard Bike,6,5,5,11,9,5,10,8,8,17
+Piranha Plant - Cute Scoot,6,5,5,11,9,5,10,8,8,17
+Piranha Plant - Tune Thumper,6,5,5,11,9,5,10,8,8,17
+Piranha Plant - Pipe Frame,7,6,6,10,8,6,9,7,7,17
+Piranha Plant - Loco Moto,9,8,8,8,6,6,9,7,7,1
+Piranha Plant - Blastronaut III,10,9,9,8,6,8,6,4,4,77
+Piranha Plant - Standard Kart,10,9,9,7,5,7,8,6,6,61
+Piranha Plant - Plushbuggy,10,9,9,7,5,7,8,6,6,61
+Piranha Plant - W—Twin Chopper,12,11,11,5,3,7,8,6,6,21
+Piranha Plant - Reel Racer,13,12,12,4,2,8,7,5,5,21
+Piranha Plant - Junkyard Hog,13,12,12,5,3,9,5,3,3,8
+Piranha Plant - Funky Dorrie,9,8,12,7,5,10,4,2,7,69
+Piranha Plant - Dread Sled,8,13,9,5,3,8,6,10,5,50
+Piranha Plant - Stellar Sled,11,12,15,2,0,10,4,3,9,46
+King Boo - Mach Rocket,10,6,5,-5,-7,5,11,9,7,9
+King Boo - R.O.B. H.O.G.,10,6,5,-5,-7,5,11,9,7,9
+King Boo - Rally Bike,4,10,4,10,8,5,7,13,7,44
+King Boo - Hyper Pipe,4,10,4,10,8,5,7,13,7,44
+King Boo - Fin Twin,4,5,9,10,8,5,7,9,11,3
+King Boo - Dolphin Dasher,4,5,9,10,8,5,7,9,11,3
+King Boo - Baby Blooper,11,7,6,-4,-6,6,10,8,6,0
+King Boo - Biddybuggy,5,11,5,9,7,6,6,12,6,44
+King Boo - Roadster Royale,12,9,8,6,4,8,9,6,4,67
+King Boo - B—Dasher,12,9,8,6,4,8,9,6,4,67
+King Boo - Hot Rod,12,9,8,6,4,8,9,6,4,67
+King Boo - Bumble V,12,9,8,6,4,8,9,6,4,67
+King Boo - Zoom Buggy,8,13,8,6,4,8,4,11,4,4
+King Boo - Rally Kart,8,13,8,6,4,8,4,11,4,4
+King Boo - Cloud 9,8,9,12,6,4,8,4,6,9,81
+King Boo - Ribbit Revster,8,9,12,6,4,8,4,6,9,81
+King Boo - Carpet Flyer,8,9,12,6,4,8,4,6,9,81
+King Boo - Billdozer,-5,-1,-2,4,2,10,8,4,2,24
+King Boo - Big Horn,-5,-1,-2,4,2,10,8,4,2,24
+King Boo - Bowser Bruiser,11,15,11,3,1,10,2,10,2,39
+King Boo - Li'l Dumpy,11,15,11,3,1,10,2,10,2,39
+King Boo - Tiny Titan,11,15,11,3,1,10,2,10,2,39
+King Boo - Chargin Truck,11,15,11,3,1,10,2,10,2,39
+King Boo - Mecha Trike,11,12,14,3,1,10,2,4,8,46
+King Boo - Rallygator,-5,-1,-2,5,3,11,6,3,1,24
+King Boo - Lobster Roller,11,12,14,4,2,11,1,3,6,7
+King Boo - Standard Bike,5,6,5,11,9,5,8,10,8,6
+King Boo - Cute Scoot,5,6,5,11,9,5,8,10,8,6
+King Boo - Tune Thumper,5,6,5,11,9,5,8,10,8,6
+King Boo - Pipe Frame,6,7,6,10,8,6,7,9,7,6
+King Boo - Loco Moto,8,9,8,8,6,6,7,9,7,66
+King Boo - Blastronaut III,9,10,9,8,6,8,4,6,4,77
+King Boo - Standard Kart,9,10,9,7,5,7,6,8,6,66
+King Boo - Plushbuggy,9,10,9,7,5,7,6,8,6,66
+King Boo - W—Twin Chopper,11,12,11,5,3,7,6,8,6,21
+King Boo - Reel Racer,12,13,12,4,2,8,5,7,5,21
+King Boo - Junkyard Hog,12,13,12,5,3,9,3,5,3,8
+King Boo - Funky Dorrie,8,9,12,7,5,10,2,4,7,69
+King Boo - Dread Sled,7,14,9,5,3,8,4,12,5,4
+King Boo - Stellar Sled,10,13,15,2,0,10,2,5,9,46
+Conkdor - Mach Rocket,10,6,5,-5,-7,5,11,9,7,9
+Conkdor - R.O.B. H.O.G.,10,6,5,-5,-7,5,11,9,7,9
+Conkdor - Rally Bike,4,10,4,10,8,5,7,13,7,44
+Conkdor - Hyper Pipe,4,10,4,10,8,5,7,13,7,44
+Conkdor - Fin Twin,4,5,9,10,8,5,7,9,11,3
+Conkdor - Dolphin Dasher,4,5,9,10,8,5,7,9,11,3
+Conkdor - Baby Blooper,11,7,6,-4,-6,6,10,8,6,0
+Conkdor - Biddybuggy,5,11,5,9,7,6,6,12,6,44
+Conkdor - Roadster Royale,12,9,8,6,4,8,9,6,4,67
+Conkdor - B—Dasher,12,9,8,6,4,8,9,6,4,67
+Conkdor - Hot Rod,12,9,8,6,4,8,9,6,4,67
+Conkdor - Bumble V,12,9,8,6,4,8,9,6,4,67
+Conkdor - Zoom Buggy,8,13,8,6,4,8,4,11,4,4
+Conkdor - Rally Kart,8,13,8,6,4,8,4,11,4,4
+Conkdor - Cloud 9,8,9,12,6,4,8,4,6,9,81
+Conkdor - Ribbit Revster,8,9,12,6,4,8,4,6,9,81
+Conkdor - Carpet Flyer,8,9,12,6,4,8,4,6,9,81
+Conkdor - Billdozer,-5,-1,-2,4,2,10,8,4,2,24
+Conkdor - Big Horn,-5,-1,-2,4,2,10,8,4,2,24
+Conkdor - Bowser Bruiser,11,15,11,3,1,10,2,10,2,39
+Conkdor - Li'l Dumpy,11,15,11,3,1,10,2,10,2,39
+Conkdor - Tiny Titan,11,15,11,3,1,10,2,10,2,39
+Conkdor - Chargin Truck,11,15,11,3,1,10,2,10,2,39
+Conkdor - Mecha Trike,11,12,14,3,1,10,2,4,8,46
+Conkdor - Rallygator,-5,-1,-2,5,3,11,6,3,1,24
+Conkdor - Lobster Roller,11,12,14,4,2,11,1,3,6,7
+Conkdor - Standard Bike,5,6,5,11,9,5,8,10,8,6
+Conkdor - Cute Scoot,5,6,5,11,9,5,8,10,8,6
+Conkdor - Tune Thumper,5,6,5,11,9,5,8,10,8,6
+Conkdor - Pipe Frame,6,7,6,10,8,6,7,9,7,6
+Conkdor - Loco Moto,8,9,8,8,6,6,7,9,7,66
+Conkdor - Blastronaut III,9,10,9,8,6,8,4,6,4,77
+Conkdor - Standard Kart,9,10,9,7,5,7,6,8,6,66
+Conkdor - Plushbuggy,9,10,9,7,5,7,6,8,6,66
+Conkdor - W—Twin Chopper,11,12,11,5,3,7,6,8,6,21
+Conkdor - Reel Racer,12,13,12,4,2,8,5,7,5,21
+Conkdor - Junkyard Hog,12,13,12,5,3,9,3,5,3,8
+Conkdor - Funky Dorrie,8,9,12,7,5,10,2,4,7,69
+Conkdor - Dread Sled,7,14,9,5,3,8,4,12,5,4
+Conkdor - Stellar Sled,10,13,15,2,0,10,2,5,9,46
+Rosalina - Mach Rocket,10,5,6,-5,-7,5,11,7,9,0
+Rosalina - R.O.B. H.O.G.,10,5,6,-5,-7,5,11,7,9,0
+Rosalina - Rally Bike,4,9,5,10,8,5,7,11,9,84
+Rosalina - Hyper Pipe,4,9,5,10,8,5,7,11,9,84
+Rosalina - Fin Twin,4,4,10,10,8,5,7,7,13,3
+Rosalina - Dolphin Dasher,4,4,10,10,8,5,7,7,13,3
+Rosalina - Baby Blooper,11,6,7,-4,-6,6,10,6,8,0
+Rosalina - Biddybuggy,5,10,6,9,7,6,6,10,8,68
+Rosalina - Roadster Royale,12,8,9,6,4,8,9,4,6,85
+Rosalina - B—Dasher,12,8,9,6,4,8,9,4,6,85
+Rosalina - Hot Rod,12,8,9,6,4,8,9,4,6,85
+Rosalina - Bumble V,12,8,9,6,4,8,9,4,6,85
+Rosalina - Zoom Buggy,8,12,9,6,4,8,4,9,6,64
+Rosalina - Rally Kart,8,12,9,6,4,8,4,9,6,64
+Rosalina - Cloud 9,8,8,13,6,4,8,4,4,11,78
+Rosalina - Ribbit Revster,8,8,13,6,4,8,4,4,11,78
+Rosalina - Carpet Flyer,8,8,13,6,4,8,4,4,11,78
+Rosalina - Billdozer,-5,-2,-1,4,2,10,8,2,4,24
+Rosalina - Big Horn,-5,-2,-1,4,2,10,8,2,4,24
+Rosalina - Bowser Bruiser,11,14,12,3,1,10,2,8,4,31
+Rosalina - Li'l Dumpy,11,14,12,3,1,10,2,8,4,31
+Rosalina - Tiny Titan,11,14,12,3,1,10,2,8,4,31
+Rosalina - Chargin Truck,11,14,12,3,1,10,2,8,4,31
+Rosalina - Mecha Trike,11,11,15,3,1,10,2,2,10,46
+Rosalina - Rallygator,-5,-2,-1,5,3,11,6,1,3,24
+Rosalina - Lobster Roller,11,11,15,4,2,11,1,1,8,7
+Rosalina - Standard Bike,5,5,6,11,9,5,8,8,10,71
+Rosalina - Cute Scoot,5,5,6,11,9,5,8,8,10,71
+Rosalina - Tune Thumper,5,5,6,11,9,5,8,8,10,71
+Rosalina - Pipe Frame,6,6,7,10,8,6,7,7,9,71
+Rosalina - Loco Moto,8,8,9,8,6,6,7,7,9,92
+Rosalina - Blastronaut III,9,9,10,8,6,8,4,4,6,77
+Rosalina - Standard Kart,9,9,10,7,5,7,6,6,8,92
+Rosalina - Plushbuggy,9,9,10,7,5,7,6,6,8,92
+Rosalina - W—Twin Chopper,11,11,12,5,3,7,6,6,8,21
+Rosalina - Reel Racer,12,12,13,4,2,8,5,5,7,21
+Rosalina - Junkyard Hog,12,12,13,5,3,9,3,3,5,8
+Rosalina - Funky Dorrie,8,8,13,7,5,10,2,2,9,69
+Rosalina - Dread Sled,7,13,10,5,3,8,4,10,7,64
+Rosalina - Stellar Sled,10,12,16,2,0,10,2,3,11,46
+Cataquack - Mach Rocket,10,5,6,-5,-7,5,11,7,9,0
+Cataquack - R.O.B. H.O.G.,10,5,6,-5,-7,5,11,7,9,0
+Cataquack - Rally Bike,4,9,5,10,8,5,7,11,9,84
+Cataquack - Hyper Pipe,4,9,5,10,8,5,7,11,9,84
+Cataquack - Fin Twin,4,4,10,10,8,5,7,7,13,3
+Cataquack - Dolphin Dasher,4,4,10,10,8,5,7,7,13,3
+Cataquack - Baby Blooper,11,6,7,-4,-6,6,10,6,8,0
+Cataquack - Biddybuggy,5,10,6,9,7,6,6,10,8,68
+Cataquack - Roadster Royale,12,8,9,6,4,8,9,4,6,85
+Cataquack - B—Dasher,12,8,9,6,4,8,9,4,6,85
+Cataquack - Hot Rod,12,8,9,6,4,8,9,4,6,85
+Cataquack - Bumble V,12,8,9,6,4,8,9,4,6,85
+Cataquack - Zoom Buggy,8,12,9,6,4,8,4,9,6,64
+Cataquack - Rally Kart,8,12,9,6,4,8,4,9,6,64
+Cataquack - Cloud 9,8,8,13,6,4,8,4,4,11,78
+Cataquack - Ribbit Revster,8,8,13,6,4,8,4,4,11,78
+Cataquack - Carpet Flyer,8,8,13,6,4,8,4,4,11,78
+Cataquack - Billdozer,-5,-2,-1,4,2,10,8,2,4,24
+Cataquack - Big Horn,-5,-2,-1,4,2,10,8,2,4,24
+Cataquack - Bowser Bruiser,11,14,12,3,1,10,2,8,4,31
+Cataquack - Li'l Dumpy,11,14,12,3,1,10,2,8,4,31
+Cataquack - Tiny Titan,11,14,12,3,1,10,2,8,4,31
+Cataquack - Chargin Truck,11,14,12,3,1,10,2,8,4,31
+Cataquack - Mecha Trike,11,11,15,3,1,10,2,2,10,46
+Cataquack - Rallygator,-5,-2,-1,5,3,11,6,1,3,24
+Cataquack - Lobster Roller,11,11,15,4,2,11,1,1,8,7
+Cataquack - Standard Bike,5,5,6,11,9,5,8,8,10,71
+Cataquack - Cute Scoot,5,5,6,11,9,5,8,8,10,71
+Cataquack - Tune Thumper,5,5,6,11,9,5,8,8,10,71
+Cataquack - Pipe Frame,6,6,7,10,8,6,7,7,9,71
+Cataquack - Loco Moto,8,8,9,8,6,6,7,7,9,92
+Cataquack - Blastronaut III,9,9,10,8,6,8,4,4,6,77
+Cataquack - Standard Kart,9,9,10,7,5,7,6,6,8,92
+Cataquack - Plushbuggy,9,9,10,7,5,7,6,6,8,92
+Cataquack - W—Twin Chopper,11,11,12,5,3,7,6,6,8,21
+Cataquack - Reel Racer,12,12,13,4,2,8,5,5,7,21
+Cataquack - Junkyard Hog,12,12,13,5,3,9,3,3,5,8
+Cataquack - Funky Dorrie,8,8,13,7,5,10,2,2,9,69
+Cataquack - Dread Sled,7,13,10,5,3,8,4,10,7,64
+Cataquack - Stellar Sled,10,12,16,2,0,10,2,3,11,46
+Wario - Mach Rocket,12,6,6,-6,-7,6,12,6,6,0
+Wario - R.O.B. H.O.G.,12,6,6,-6,-7,6,12,6,6,0
+Wario - Rally Bike,6,10,5,9,8,6,8,10,6,32
+Wario - Hyper Pipe,6,10,5,9,8,6,8,10,6,32
+Wario - Fin Twin,6,5,10,9,8,6,8,6,10,73
+Wario - Dolphin Dasher,6,5,10,9,8,6,8,6,10,73
+Wario - Baby Blooper,13,7,7,-5,-6,7,11,5,5,0
+Wario - Biddybuggy,7,11,6,8,7,7,7,9,5,57
+Wario - Roadster Royale,14,9,9,5,4,9,10,3,3,96
+Wario - B—Dasher,14,9,9,5,4,9,10,3,3,96
+Wario - Hot Rod,14,9,9,5,4,9,10,3,3,96
+Wario - Bumble V,14,9,9,5,4,9,10,3,3,96
+Wario - Zoom Buggy,10,13,9,5,4,9,5,8,3,33
+Wario - Rally Kart,10,13,9,5,4,9,5,8,3,33
+Wario - Cloud 9,10,9,13,5,4,9,5,3,8,83
+Wario - Ribbit Revster,10,9,13,5,4,9,5,3,8,83
+Wario - Carpet Flyer,10,9,13,5,4,9,5,3,8,83
+Wario - Billdozer,-3,-1,-1,3,2,11,9,1,1,95
+Wario - Big Horn,-3,-1,-1,3,2,11,9,1,1,95
+Wario - Bowser Bruiser,13,15,12,2,1,11,3,7,1,40
+Wario - Li'l Dumpy,13,15,12,2,1,11,3,7,1,40
+Wario - Tiny Titan,13,15,12,2,1,11,3,7,1,40
+Wario - Chargin Truck,13,15,12,2,1,11,3,7,1,40
+Wario - Mecha Trike,13,12,15,2,1,11,3,1,7,7
+Wario - Rallygator,-3,-1,-1,4,3,12,7,0,0,24
+Wario - Lobster Roller,13,12,15,3,2,12,2,0,5,7
+Wario - Standard Bike,7,6,6,10,9,6,9,7,7,17
+Wario - Cute Scoot,7,6,6,10,9,6,9,7,7,17
+Wario - Tune Thumper,7,6,6,10,9,6,9,7,7,17
+Wario - Pipe Frame,8,7,7,9,8,7,8,6,6,76
+Wario - Loco Moto,10,9,9,7,6,7,8,6,6,61
+Wario - Blastronaut III,11,10,10,7,6,9,5,3,3,77
+Wario - Standard Kart,11,10,10,6,5,8,7,5,5,61
+Wario - Plushbuggy,11,10,10,6,5,8,7,5,5,61
+Wario - W—Twin Chopper,13,12,12,4,3,8,7,5,5,21
+Wario - Reel Racer,14,13,13,3,2,9,6,4,4,8
+Wario - Junkyard Hog,14,13,13,4,3,10,4,2,2,8
+Wario - Funky Dorrie,10,9,13,6,5,11,3,1,6,69
+Wario - Dread Sled,9,14,10,4,3,9,5,9,4,33
+Wario - Stellar Sled,12,13,16,1,0,11,3,2,8,70
+Wiggler - Mach Rocket,12,6,6,-6,-7,6,12,6,6,0
+Wiggler - R.O.B. H.O.G.,12,6,6,-6,-7,6,12,6,6,0
+Wiggler - Rally Bike,6,10,5,9,8,6,8,10,6,32
+Wiggler - Hyper Pipe,6,10,5,9,8,6,8,10,6,32
+Wiggler - Fin Twin,6,5,10,9,8,6,8,6,10,73
+Wiggler - Dolphin Dasher,6,5,10,9,8,6,8,6,10,73
+Wiggler - Baby Blooper,13,7,7,-5,-6,7,11,5,5,0
+Wiggler - Biddybuggy,7,11,6,8,7,7,7,9,5,57
+Wiggler - Roadster Royale,14,9,9,5,4,9,10,3,3,96
+Wiggler - B—Dasher,14,9,9,5,4,9,10,3,3,96
+Wiggler - Hot Rod,14,9,9,5,4,9,10,3,3,96
+Wiggler - Bumble V,14,9,9,5,4,9,10,3,3,96
+Wiggler - Zoom Buggy,10,13,9,5,4,9,5,8,3,33
+Wiggler - Rally Kart,10,13,9,5,4,9,5,8,3,33
+Wiggler - Cloud 9,10,9,13,5,4,9,5,3,8,83
+Wiggler - Ribbit Revster,10,9,13,5,4,9,5,3,8,83
+Wiggler - Carpet Flyer,10,9,13,5,4,9,5,3,8,83
+Wiggler - Billdozer,-3,-1,-1,3,2,11,9,1,1,95
+Wiggler - Big Horn,-3,-1,-1,3,2,11,9,1,1,95
+Wiggler - Bowser Bruiser,13,15,12,2,1,11,3,7,1,40
+Wiggler - Li'l Dumpy,13,15,12,2,1,11,3,7,1,40
+Wiggler - Tiny Titan,13,15,12,2,1,11,3,7,1,40
+Wiggler - Chargin Truck,13,15,12,2,1,11,3,7,1,40
+Wiggler - Mecha Trike,13,12,15,2,1,11,3,1,7,7
+Wiggler - Rallygator,-3,-1,-1,4,3,12,7,0,0,24
+Wiggler - Lobster Roller,13,12,15,3,2,12,2,0,5,7
+Wiggler - Standard Bike,7,6,6,10,9,6,9,7,7,17
+Wiggler - Cute Scoot,7,6,6,10,9,6,9,7,7,17
+Wiggler - Tune Thumper,7,6,6,10,9,6,9,7,7,17
+Wiggler - Pipe Frame,8,7,7,9,8,7,8,6,6,76
+Wiggler - Loco Moto,10,9,9,7,6,7,8,6,6,61
+Wiggler - Blastronaut III,11,10,10,7,6,9,5,3,3,77
+Wiggler - Standard Kart,11,10,10,6,5,8,7,5,5,61
+Wiggler - Plushbuggy,11,10,10,6,5,8,7,5,5,61
+Wiggler - W—Twin Chopper,13,12,12,4,3,8,7,5,5,21
+Wiggler - Reel Racer,14,13,13,3,2,9,6,4,4,8
+Wiggler - Junkyard Hog,14,13,13,4,3,10,4,2,2,8
+Wiggler - Funky Dorrie,10,9,13,6,5,11,3,1,6,69
+Wiggler - Dread Sled,9,14,10,4,3,9,5,9,4,33
+Wiggler - Stellar Sled,12,13,16,1,0,11,3,2,8,70
+Cow - Mach Rocket,11,7,6,-6,-7,6,10,8,6,0
+Cow - R.O.B. H.O.G.,11,7,6,-6,-7,6,10,8,6,0
+Cow - Rally Bike,5,11,5,9,8,6,6,12,6,44
+Cow - Hyper Pipe,5,11,5,9,8,6,6,12,6,44
+Cow - Fin Twin,5,6,10,9,8,6,6,8,10,29
+Cow - Dolphin Dasher,5,6,10,9,8,6,6,8,10,29
+Cow - Baby Blooper,12,8,7,-5,-6,7,9,7,5,0
+Cow - Biddybuggy,6,12,6,8,7,7,5,11,5,57
+Cow - Roadster Royale,13,10,9,5,4,9,8,5,3,67
+Cow - B—Dasher,13,10,9,5,4,9,8,5,3,67
+Cow - Hot Rod,13,10,9,5,4,9,8,5,3,67
+Cow - Bumble V,13,10,9,5,4,9,8,5,3,67
+Cow - Zoom Buggy,9,14,9,5,4,9,3,10,3,4
+Cow - Rally Kart,9,14,9,5,4,9,3,10,3,4
+Cow - Cloud 9,9,10,13,5,4,9,3,5,8,22
+Cow - Ribbit Revster,9,10,13,5,4,9,3,5,8,22
+Cow - Carpet Flyer,9,10,13,5,4,9,3,5,8,22
+Cow - Billdozer,-4,0,-1,3,2,11,7,3,1,24
+Cow - Big Horn,-4,0,-1,3,2,11,7,3,1,24
+Cow - Bowser Bruiser,12,16,12,2,1,11,1,9,1,39
+Cow - Li'l Dumpy,12,16,12,2,1,11,1,9,1,39
+Cow - Tiny Titan,12,16,12,2,1,11,1,9,1,39
+Cow - Chargin Truck,12,16,12,2,1,11,1,9,1,39
+Cow - Mecha Trike,12,13,15,2,1,11,1,3,7,70
+Cow - Rallygator,-4,0,-1,4,3,12,5,2,0,24
+Cow - Lobster Roller,12,13,15,3,2,12,0,2,5,7
+Cow - Standard Bike,6,7,6,10,9,6,7,9,7,6
+Cow - Cute Scoot,6,7,6,10,9,6,7,9,7,6
+Cow - Tune Thumper,6,7,6,10,9,6,7,9,7,6
+Cow - Pipe Frame,7,8,7,9,8,7,6,8,6,76
+Cow - Loco Moto,9,10,9,7,6,7,6,8,6,66
+Cow - Blastronaut III,10,11,10,7,6,9,3,5,3,77
+Cow - Standard Kart,10,11,10,6,5,8,5,7,5,38
+Cow - Plushbuggy,10,11,10,6,5,8,5,7,5,38
+Cow - W—Twin Chopper,12,13,12,4,3,8,5,7,5,21
+Cow - Reel Racer,13,14,13,3,2,9,4,6,4,8
+Cow - Junkyard Hog,13,14,13,4,3,10,2,4,2,8
+Cow - Funky Dorrie,9,10,13,6,5,11,1,3,6,69
+Cow - Dread Sled,8,15,10,4,3,9,3,11,4,4
+Cow - Stellar Sled,11,14,16,1,0,11,1,4,8,70
+Donkey Kong - Mach Rocket,11,7,6,-6,-7,6,10,8,6,0
+Donkey Kong - R.O.B. H.O.G.,11,7,6,-6,-7,6,10,8,6,0
+Donkey Kong - Rally Bike,5,11,5,9,8,6,6,12,6,44
+Donkey Kong - Hyper Pipe,5,11,5,9,8,6,6,12,6,44
+Donkey Kong - Fin Twin,5,6,10,9,8,6,6,8,10,29
+Donkey Kong - Dolphin Dasher,5,6,10,9,8,6,6,8,10,29
+Donkey Kong - Baby Blooper,12,8,7,-5,-6,7,9,7,5,0
+Donkey Kong - Biddybuggy,6,12,6,8,7,7,5,11,5,57
+Donkey Kong - Roadster Royale,13,10,9,5,4,9,8,5,3,67
+Donkey Kong - B—Dasher,13,10,9,5,4,9,8,5,3,67
+Donkey Kong - Hot Rod,13,10,9,5,4,9,8,5,3,67
+Donkey Kong - Bumble V,13,10,9,5,4,9,8,5,3,67
+Donkey Kong - Zoom Buggy,9,14,9,5,4,9,3,10,3,4
+Donkey Kong - Rally Kart,9,14,9,5,4,9,3,10,3,4
+Donkey Kong - Cloud 9,9,10,13,5,4,9,3,5,8,22
+Donkey Kong - Ribbit Revster,9,10,13,5,4,9,3,5,8,22
+Donkey Kong - Carpet Flyer,9,10,13,5,4,9,3,5,8,22
+Donkey Kong - Billdozer,-4,0,-1,3,2,11,7,3,1,24
+Donkey Kong - Big Horn,-4,0,-1,3,2,11,7,3,1,24
+Donkey Kong - Bowser Bruiser,12,16,12,2,1,11,1,9,1,39
+Donkey Kong - Li'l Dumpy,12,16,12,2,1,11,1,9,1,39
+Donkey Kong - Tiny Titan,12,16,12,2,1,11,1,9,1,39
+Donkey Kong - Chargin Truck,12,16,12,2,1,11,1,9,1,39
+Donkey Kong - Mecha Trike,12,13,15,2,1,11,1,3,7,70
+Donkey Kong - Rallygator,-4,0,-1,4,3,12,5,2,0,24
+Donkey Kong - Lobster Roller,12,13,15,3,2,12,0,2,5,7
+Donkey Kong - Standard Bike,6,7,6,10,9,6,7,9,7,6
+Donkey Kong - Cute Scoot,6,7,6,10,9,6,7,9,7,6
+Donkey Kong - Tune Thumper,6,7,6,10,9,6,7,9,7,6
+Donkey Kong - Pipe Frame,7,8,7,9,8,7,6,8,6,76
+Donkey Kong - Loco Moto,9,10,9,7,6,7,6,8,6,66
+Donkey Kong - Blastronaut III,10,11,10,7,6,9,3,5,3,77
+Donkey Kong - Standard Kart,10,11,10,6,5,8,5,7,5,38
+Donkey Kong - Plushbuggy,10,11,10,6,5,8,5,7,5,38
+Donkey Kong - W—Twin Chopper,12,13,12,4,3,8,5,7,5,21
+Donkey Kong - Reel Racer,13,14,13,3,2,9,4,6,4,8
+Donkey Kong - Junkyard Hog,13,14,13,4,3,10,2,4,2,8
+Donkey Kong - Funky Dorrie,9,10,13,6,5,11,1,3,6,69
+Donkey Kong - Dread Sled,8,15,10,4,3,9,3,11,4,4
+Donkey Kong - Stellar Sled,11,14,16,1,0,11,1,4,8,70
+Chargin Chuck - Mach Rocket,11,7,6,-6,-7,6,10,8,6,0
+Chargin Chuck - R.O.B. H.O.G.,11,7,6,-6,-7,6,10,8,6,0
+Chargin Chuck - Rally Bike,5,11,5,9,8,6,6,12,6,44
+Chargin Chuck - Hyper Pipe,5,11,5,9,8,6,6,12,6,44
+Chargin Chuck - Fin Twin,5,6,10,9,8,6,6,8,10,29
+Chargin Chuck - Dolphin Dasher,5,6,10,9,8,6,6,8,10,29
+Chargin Chuck - Baby Blooper,12,8,7,-5,-6,7,9,7,5,0
+Chargin Chuck - Biddybuggy,6,12,6,8,7,7,5,11,5,57
+Chargin Chuck - Roadster Royale,13,10,9,5,4,9,8,5,3,67
+Chargin Chuck - B—Dasher,13,10,9,5,4,9,8,5,3,67
+Chargin Chuck - Hot Rod,13,10,9,5,4,9,8,5,3,67
+Chargin Chuck - Bumble V,13,10,9,5,4,9,8,5,3,67
+Chargin Chuck - Zoom Buggy,9,14,9,5,4,9,3,10,3,4
+Chargin Chuck - Rally Kart,9,14,9,5,4,9,3,10,3,4
+Chargin Chuck - Cloud 9,9,10,13,5,4,9,3,5,8,22
+Chargin Chuck - Ribbit Revster,9,10,13,5,4,9,3,5,8,22
+Chargin Chuck - Carpet Flyer,9,10,13,5,4,9,3,5,8,22
+Chargin Chuck - Billdozer,-4,0,-1,3,2,11,7,3,1,24
+Chargin Chuck - Big Horn,-4,0,-1,3,2,11,7,3,1,24
+Chargin Chuck - Bowser Bruiser,12,16,12,2,1,11,1,9,1,39
+Chargin Chuck - Li'l Dumpy,12,16,12,2,1,11,1,9,1,39
+Chargin Chuck - Tiny Titan,12,16,12,2,1,11,1,9,1,39
+Chargin Chuck - Chargin Truck,12,16,12,2,1,11,1,9,1,39
+Chargin Chuck - Mecha Trike,12,13,15,2,1,11,1,3,7,70
+Chargin Chuck - Rallygator,-4,0,-1,4,3,12,5,2,0,24
+Chargin Chuck - Lobster Roller,12,13,15,3,2,12,0,2,5,7
+Chargin Chuck - Standard Bike,6,7,6,10,9,6,7,9,7,6
+Chargin Chuck - Cute Scoot,6,7,6,10,9,6,7,9,7,6
+Chargin Chuck - Tune Thumper,6,7,6,10,9,6,7,9,7,6
+Chargin Chuck - Pipe Frame,7,8,7,9,8,7,6,8,6,76
+Chargin Chuck - Loco Moto,9,10,9,7,6,7,6,8,6,66
+Chargin Chuck - Blastronaut III,10,11,10,7,6,9,3,5,3,77
+Chargin Chuck - Standard Kart,10,11,10,6,5,8,5,7,5,38
+Chargin Chuck - Plushbuggy,10,11,10,6,5,8,5,7,5,38
+Chargin Chuck - W—Twin Chopper,12,13,12,4,3,8,5,7,5,21
+Chargin Chuck - Reel Racer,13,14,13,3,2,9,4,6,4,8
+Chargin Chuck - Junkyard Hog,13,14,13,4,3,10,2,4,2,8
+Chargin Chuck - Funky Dorrie,9,10,13,6,5,11,1,3,6,69
+Chargin Chuck - Dread Sled,8,15,10,4,3,9,3,11,4,4
+Chargin Chuck - Stellar Sled,11,14,16,1,0,11,1,4,8,70
+Waluigi - Mach Rocket,11,6,7,-6,-7,6,10,6,8,0
+Waluigi - R.O.B. H.O.G.,11,6,7,-6,-7,6,10,6,8,0
+Waluigi - Rally Bike,5,10,6,9,8,6,6,10,8,68
+Waluigi - Hyper Pipe,5,10,6,9,8,6,6,10,8,68
+Waluigi - Fin Twin,5,5,11,9,8,6,6,6,12,29
+Waluigi - Dolphin Dasher,5,5,11,9,8,6,6,6,12,29
+Waluigi - Baby Blooper,12,7,8,-5,-6,7,9,5,7,0
+Waluigi - Biddybuggy,6,11,7,8,7,7,5,9,7,57
+Waluigi - Roadster Royale,13,9,10,5,4,9,8,3,5,85
+Waluigi - B—Dasher,13,9,10,5,4,9,8,3,5,85
+Waluigi - Hot Rod,13,9,10,5,4,9,8,3,5,85
+Waluigi - Bumble V,13,9,10,5,4,9,8,3,5,85
+Waluigi - Zoom Buggy,9,13,10,5,4,9,3,8,5,33
+Waluigi - Rally Kart,9,13,10,5,4,9,3,8,5,33
+Waluigi - Cloud 9,9,9,14,5,4,9,3,3,10,22
+Waluigi - Ribbit Revster,9,9,14,5,4,9,3,3,10,22
+Waluigi - Carpet Flyer,9,9,14,5,4,9,3,3,10,22
+Waluigi - Billdozer,-4,-1,0,3,2,11,7,1,3,24
+Waluigi - Big Horn,-4,-1,0,3,2,11,7,1,3,24
+Waluigi - Bowser Bruiser,12,15,13,2,1,11,1,7,3,40
+Waluigi - Li'l Dumpy,12,15,13,2,1,11,1,7,3,40
+Waluigi - Tiny Titan,12,15,13,2,1,11,1,7,3,40
+Waluigi - Chargin Truck,12,15,13,2,1,11,1,7,3,40
+Waluigi - Mecha Trike,12,12,16,2,1,11,1,1,9,70
+Waluigi - Rallygator,-4,-1,0,4,3,12,5,0,2,24
+Waluigi - Lobster Roller,12,12,16,3,2,12,0,0,7,7
+Waluigi - Standard Bike,6,6,7,10,9,6,7,7,9,71
+Waluigi - Cute Scoot,6,6,7,10,9,6,7,7,9,71
+Waluigi - Tune Thumper,6,6,7,10,9,6,7,7,9,71
+Waluigi - Pipe Frame,7,7,8,9,8,7,6,6,8,76
+Waluigi - Loco Moto,9,9,10,7,6,7,6,6,8,92
+Waluigi - Blastronaut III,10,10,11,7,6,9,3,3,5,77
+Waluigi - Standard Kart,10,10,11,6,5,8,5,5,7,38
+Waluigi - Plushbuggy,10,10,11,6,5,8,5,5,7,38
+Waluigi - W—Twin Chopper,12,12,13,4,3,8,5,5,7,21
+Waluigi - Reel Racer,13,13,14,3,2,9,4,4,6,8
+Waluigi - Junkyard Hog,13,13,14,4,3,10,2,2,4,8
+Waluigi - Funky Dorrie,9,9,14,6,5,11,1,1,8,69
+Waluigi - Dread Sled,8,14,11,4,3,9,3,9,6,64
+Waluigi - Stellar Sled,11,13,17,1,0,11,1,2,10,70
+Pianta - Mach Rocket,11,6,7,-6,-7,6,10,6,8,0
+Pianta - R.O.B. H.O.G.,11,6,7,-6,-7,6,10,6,8,0
+Pianta - Rally Bike,5,10,6,9,8,6,6,10,8,68
+Pianta - Hyper Pipe,5,10,6,9,8,6,6,10,8,68
+Pianta - Fin Twin,5,5,11,9,8,6,6,6,12,29
+Pianta - Dolphin Dasher,5,5,11,9,8,6,6,6,12,29
+Pianta - Baby Blooper,12,7,8,-5,-6,7,9,5,7,0
+Pianta - Biddybuggy,6,11,7,8,7,7,5,9,7,57
+Pianta - Roadster Royale,13,9,10,5,4,9,8,3,5,85
+Pianta - B—Dasher,13,9,10,5,4,9,8,3,5,85
+Pianta - Hot Rod,13,9,10,5,4,9,8,3,5,85
+Pianta - Bumble V,13,9,10,5,4,9,8,3,5,85
+Pianta - Zoom Buggy,9,13,10,5,4,9,3,8,5,33
+Pianta - Rally Kart,9,13,10,5,4,9,3,8,5,33
+Pianta - Cloud 9,9,9,14,5,4,9,3,3,10,22
+Pianta - Ribbit Revster,9,9,14,5,4,9,3,3,10,22
+Pianta - Carpet Flyer,9,9,14,5,4,9,3,3,10,22
+Pianta - Billdozer,-4,-1,0,3,2,11,7,1,3,24
+Pianta - Big Horn,-4,-1,0,3,2,11,7,1,3,24
+Pianta - Bowser Bruiser,12,15,13,2,1,11,1,7,3,40
+Pianta - Li'l Dumpy,12,15,13,2,1,11,1,7,3,40
+Pianta - Tiny Titan,12,15,13,2,1,11,1,7,3,40
+Pianta - Chargin Truck,12,15,13,2,1,11,1,7,3,40
+Pianta - Mecha Trike,12,12,16,2,1,11,1,1,9,70
+Pianta - Rallygator,-4,-1,0,4,3,12,5,0,2,24
+Pianta - Lobster Roller,12,12,16,3,2,12,0,0,7,7
+Pianta - Standard Bike,6,6,7,10,9,6,7,7,9,71
+Pianta - Cute Scoot,6,6,7,10,9,6,7,7,9,71
+Pianta - Tune Thumper,6,6,7,10,9,6,7,7,9,71
+Pianta - Pipe Frame,7,7,8,9,8,7,6,6,8,76
+Pianta - Loco Moto,9,9,10,7,6,7,6,6,8,92
+Pianta - Blastronaut III,10,10,11,7,6,9,3,3,5,77
+Pianta - Standard Kart,10,10,11,6,5,8,5,5,7,38
+Pianta - Plushbuggy,10,10,11,6,5,8,5,5,7,38
+Pianta - W—Twin Chopper,12,12,13,4,3,8,5,5,7,21
+Pianta - Reel Racer,13,13,14,3,2,9,4,4,6,8
+Pianta - Junkyard Hog,13,13,14,4,3,10,2,2,4,8
+Pianta - Funky Dorrie,9,9,14,6,5,11,1,1,8,69
+Pianta - Dread Sled,8,14,11,4,3,9,3,9,6,64
+Pianta - Stellar Sled,11,13,17,1,0,11,1,2,10,70
+Bowser - Mach Rocket,12,7,7,-7,-7,7,10,6,6,0
+Bowser - R.O.B. H.O.G.,12,7,7,-7,-7,7,10,6,6,0
+Bowser - Rally Bike,6,11,6,8,8,7,6,10,6,57
+Bowser - Hyper Pipe,6,11,6,8,8,7,6,10,6,57
+Bowser - Fin Twin,6,6,11,8,8,7,6,6,10,29
+Bowser - Dolphin Dasher,6,6,11,8,8,7,6,6,10,29
+Bowser - Baby Blooper,13,8,8,-6,-6,8,9,5,5,0
+Bowser - Biddybuggy,7,12,7,7,7,8,5,9,5,57
+Bowser - Roadster Royale,14,10,10,4,4,10,8,3,3,96
+Bowser - B—Dasher,14,10,10,4,4,10,8,3,3,96
+Bowser - Hot Rod,14,10,10,4,4,10,8,3,3,96
+Bowser - Bumble V,14,10,10,4,4,10,8,3,3,96
+Bowser - Zoom Buggy,10,14,10,4,4,10,3,8,3,33
+Bowser - Rally Kart,10,14,10,4,4,10,3,8,3,33
+Bowser - Cloud 9,10,10,14,4,4,10,3,3,8,22
+Bowser - Ribbit Revster,10,10,14,4,4,10,3,3,8,22
+Bowser - Carpet Flyer,10,10,14,4,4,10,3,3,8,22
+Bowser - Billdozer,-3,0,0,2,2,12,7,1,1,24
+Bowser - Big Horn,-3,0,0,2,2,12,7,1,1,24
+Bowser - Bowser Bruiser,13,16,13,1,1,12,1,7,1,40
+Bowser - Li'l Dumpy,13,16,13,1,1,12,1,7,1,40
+Bowser - Tiny Titan,13,16,13,1,1,12,1,7,1,40
+Bowser - Chargin Truck,13,16,13,1,1,12,1,7,1,40
+Bowser - Mecha Trike,13,13,16,1,1,12,1,1,7,70
+Bowser - Rallygator,-3,0,0,3,3,13,5,0,0,24
+Bowser - Lobster Roller,13,13,16,2,2,13,0,0,5,7
+Bowser - Standard Bike,7,7,7,9,9,7,7,7,7,76
+Bowser - Cute Scoot,7,7,7,9,9,7,7,7,7,76
+Bowser - Tune Thumper,7,7,7,9,9,7,7,7,7,76
+Bowser - Pipe Frame,8,8,8,8,8,8,6,6,6,76
+Bowser - Loco Moto,10,10,10,6,6,8,6,6,6,38
+Bowser - Blastronaut III,11,11,11,6,6,10,3,3,3,77
+Bowser - Standard Kart,11,11,11,5,5,9,5,5,5,38
+Bowser - Plushbuggy,11,11,11,5,5,9,5,5,5,38
+Bowser - W—Twin Chopper,13,13,13,3,3,9,5,5,5,8
+Bowser - Reel Racer,14,14,14,2,2,10,4,4,4,8
+Bowser - Junkyard Hog,14,14,14,3,3,11,2,2,2,8
+Bowser - Funky Dorrie,10,10,14,5,5,12,1,1,6,69
+Bowser - Dread Sled,9,15,11,3,3,10,3,9,4,33
+Bowser - Stellar Sled,12,14,17,0,0,12,1,2,8,70
