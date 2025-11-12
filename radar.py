@@ -139,7 +139,7 @@ app.layout = html.Div([
                 dbc.Col(dcc.Graph(figure=fig, id='radar')),
                 dbc.Col([
                 html.H3(
-                    "Combo A Cluster", 
+                    "Similar builds to Combo A", 
                     style={'color': '#4E56C0', 'paddingLeft': '0rem'}
                 ),
                 dash_table.DataTable(
@@ -168,14 +168,13 @@ app.layout = html.Div([
     dbc.Row([
         html.P(['SS: Speed Solid, SC: Speed Coarse, SL: Speed Liquid, HS: Handling Solid, HC: Handling Coarse, HL: Handling Liquid, Acc: Acceleration, MT: MiniTurbo, W: Weight/Coin']),
         html.Footer([
-            " Data sourced from from: ",
-            html.A("Mario Kart World Stats", href='https://docs.google.com/spreadsheets/d/1t3BeXH3shj6Rh7x0ROFD81ZBxyumQFs9pebbnYcfWi4/edit?gid=735843013#gid=735843013'),
-            ", ",
-            html.A("Luigi_Fan2's Mario Kart World Stat Chart", href='https://docs.google.com/spreadsheets/d/1BtHeFAEwL1MLND-l7KZz_Zg4wZWC2YIikbyweocqwSs/edit?gid=0#gid=0'),
-            ", ",
-            html.A("@CrypticJacknife's Mario Kart World stats and build", href='https://docs.google.com/spreadsheets/d/1yRpKR3vtRtGp4EVrew6xb4fmhTTWytMOKXp2Dq6agXc/edit?gid=1889185963#gid=1889185963'),
-            " analysis by ",
-            html.A("chipdelmal.github.io", href='chipdelmal.github.io'),
+            "Analysis by ",
+            html.A("chipdelmal", href='http://chipdelmal.github.io'),
+            ". Have a look at my ",
+            html.A("blogpost", href='http://chipdelmal.github.io/dataViz/2025-11-10-MKW.html'),
+            " for more information about the stats and clustering, as well as the ",
+            html.A("code and data sources", href='http://chipdelmal.github.io/dataViz/2025-11-10-MKW.html#code-repo-and-data-sources'),
+            "!"
         ], style={'color': '#F0F0F0', 'background-color': '#53629E', 'paddingTop': '1rem', 'paddingBottom': '1rem', 'fontsize': 14, 'textAlign': 'right'}
         )
     ], style={
