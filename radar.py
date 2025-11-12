@@ -180,7 +180,7 @@ app.layout = html.Div([
     ], style={
         'paddingTop': '1rem',
         'paddingLeft': '1rem', 
-        'position': 'absolute',
+        'position': 'relative',
         'left': 0, 'bottom': 0, 'width': '100%'
     }),
 ])
