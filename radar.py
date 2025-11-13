@@ -249,4 +249,4 @@ def update_table(charA, kartA, charB, kartB):
     return dfTmp.to_dict(orient='records')
 
 if __name__ == '__main__':
-    app.run(debug=False, port=8051)
+    app.run_server(debug=False)
