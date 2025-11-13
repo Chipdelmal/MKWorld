@@ -89,7 +89,9 @@ charList = sorted(list(set(dfCmb['Racer'].values)))
 kartList = sorted(list(set(dfCmb['Kart'].values)))
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.JOURNAL])
-app.title = "MKWCombo"
+server = app.server
+app.title = "MKWorld-BuildCompare"
+
 app.layout = html.Div([
     dbc.Row([
         html.H1(
