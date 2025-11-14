@@ -6,13 +6,13 @@ Just some tools I've been building to compare Mario Kart world character-kart co
 
 The UI is coded in [radar.py](./radar.py) and a live version can be found [here](https://mkworld-buildcompare.onrender.com/) (just be patient with the loading as I'm using the free tier).
 
-![](https://chipdelmal.github.io/media/mkw/ui.png)
+[![](https://chipdelmal.github.io/media/mkw/ui.png)](https://mkworld-buildcompare.onrender.com/)
 
 ## HiPlot
 
 The code to generate this HTML file is in [hiplot](./hiplot.py) and the live counterpart can be found [here](https://chipdelmal.github.io/media/mkw/parallel.html).
 
-![](https://chipdelmal.github.io/media/mkw/demo.png)
+[![](https://chipdelmal.github.io/media/mkw/demo.png)](https://chipdelmal.github.io/media/mkw/parallel.html)
 
 
 ## Data Sources
