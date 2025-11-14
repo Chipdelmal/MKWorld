@@ -78,7 +78,7 @@ fig.add_trace(go.Scatterpolar(r=pA, theta=cats, name=cA))
 fig.add_trace(go.Scatterpolar(r=pB, theta=cats, name=cB))
 fig.update_layout(
     polar=dict(radialaxis=dict(visible=False, range=[0, 25])),
-    width=1000,  height=1000, showlegend=True
+    width=750,  height=750, showlegend=True
 )
 fig.show()
 
@@ -89,7 +89,9 @@ charList = sorted(list(set(dfCmb['Racer'].values)))
 kartList = sorted(list(set(dfCmb['Kart'].values)))
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.JOURNAL])
-app.title = "MKWCombo"
+server = app.server
+app.title = "MKWorld-BuildCompare"
+
 app.layout = html.Div([
     dbc.Row([
         html.H1(
@@ -220,7 +222,7 @@ def update_figure(charA, kartA, charB, kartB):
             radialaxis=dict(visible=False,  range=[0, 25])
         ),
         font=dict(size=17.5),
-        width=900, height=900,
+        width=750, height=750,
         showlegend=False
     )
     return fig
@@ -247,4 +249,5 @@ def update_table(charA, kartA, charB, kartB):
     return dfTmp.to_dict(orient='records')
 
 if __name__ == '__main__':
-    app.run(debug=False, port=8051)
+    app.run_server(debug=False)
+    # app.run(debug=False, port=8051)
