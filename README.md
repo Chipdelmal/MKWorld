@@ -1,6 +1,18 @@
-# Mario Kart World Parallel Plot
+# Mario Kart World: Build Analyzer
 
+Just some tools I've been building to compare Mario Kart world character-kart combinations. Please have a look at my blogpost for more information on how it all connects.
 
+## Dash build comparison
+
+The UI is coded in [radar.py](./radar.py) and a live version can be found [here](https://mkworld-buildcompare.onrender.com/) (just be patient with the loading as I'm using the free tier).
+
+![](https://chipdelmal.github.io/media/mkw/ui.png)
+
+## HiPlot
+
+The code to generate this HTML file is in [hiplot](./hiplot.py) and the live counterpart can be found [here](https://chipdelmal.github.io/media/mkw/parallel.html).
+
+![](https://chipdelmal.github.io/media/mkw/demo.png)
 
 
 ## Data Sources
